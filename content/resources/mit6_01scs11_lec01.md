@@ -1,0 +1,9 @@
+---
+content_type: resource
+description: This resource contains information related to object oriented programing.
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/3a24b469d8eb129e47bb403b99ef6b4a_MIT6_01SCS11_lec01.pdf
+file_type: application/pdf
+resourcetype: Document
+title: MIT6_01SCS11_lec01.pdf
+uid: 3a24b469-d8eb-129e-47bb-403b99ef6b4a
+---

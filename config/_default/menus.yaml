@@ -1,0 +1,184 @@
+leftnav:
+- identifier: a867cb2b-8f18-9ea6-007b-e4cfcac89b0e
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: 2aef49a5-63b7-0f93-319d-156d62607fed
+  name: Instructor Insights
+  url: /pages/instructor-insights/
+  weight: 20
+- identifier: b0fe4856-cb03-8a61-e660-9aa70f6303e2
+  name: Shifting to a Practice-Theory-Practice Approach
+  parent: 2aef49a5-63b7-0f93-319d-156d62607fed
+  url: /pages/instructor-insights/shifting-to-a-practice-theory-practice-approach
+  weight: 30
+- identifier: 7852895b-37bf-8286-e877-95a85c35d2d7
+  name: "Becoming More Cognizant of Students\u2019 Learning"
+  parent: 2aef49a5-63b7-0f93-319d-156d62607fed
+  url: /pages/instructor-insights/becoming-more-cognizant-of-students2019-learning
+  weight: 40
+- identifier: 2280def2-566b-f511-9dc8-6d7e54da9a37
+  name: Flipping the Classroom to Facilitate Active Learning
+  parent: 2aef49a5-63b7-0f93-319d-156d62607fed
+  url: /pages/instructor-insights/flipping-the-classroom-to-facilitate-active-learning
+  weight: 50
+- identifier: 7443b17e-ca68-13d3-084e-83a7f25a4319
+  name: Online Tutoring Environment
+  parent: 2aef49a5-63b7-0f93-319d-156d62607fed
+  url: /pages/instructor-insights/using-an-online-tutoring-environment-to-promote-student-self-assessment
+  weight: 60
+- identifier: e67f5bf6-4bd7-6a03-436b-80ea36e1fa29
+  name: Formative Assessment during Design Labs
+  parent: 2aef49a5-63b7-0f93-319d-156d62607fed
+  url: /pages/instructor-insights/formative-assessment-during-design-labs/
+  weight: 70
+- identifier: 0fbdced9-2346-2bfc-2814-0a1b14fa6d4b
+  name: Reflecting on Assessment
+  parent: 2aef49a5-63b7-0f93-319d-156d62607fed
+  url: /pages/instructor-insights/reflecting-on-assessment
+  weight: 80
+- identifier: 2ff0614e-fcb8-f533-5175-f91e6903fa2a
+  name: Co-Teaching the Course
+  parent: 2aef49a5-63b7-0f93-319d-156d62607fed
+  url: /pages/instructor-insights/co-teaching-the-course
+  weight: 90
+- identifier: 7ff627d1-c807-cddd-75e0-3d0659f60269
+  name: Software and Tools
+  url: /pages/software-and-tools/
+  weight: 100
+- identifier: eb35763e-4457-1074-0617-fdcde7901af1
+  name: Python Tutorial
+  url: /pages/python-tutorial/
+  weight: 110
+- identifier: ffa6b18b-9208-3825-b5c2-29de088ec938
+  name: Types, Values, Expressions; Variables and Binding
+  parent: eb35763e-4457-1074-0617-fdcde7901af1
+  url: /pages/python-tutorial/part-i
+  weight: 120
+- identifier: f7d78d74-5ad0-846f-c9e2-c2ee7ece5ed1
+  name: Functions and Scope
+  parent: eb35763e-4457-1074-0617-fdcde7901af1
+  url: /pages/python-tutorial/part-2
+  weight: 130
+- identifier: 14427f34-8f48-0109-8fbb-e6ee945756d4
+  name: Using if, else, and while
+  parent: eb35763e-4457-1074-0617-fdcde7901af1
+  url: /pages/python-tutorial/part-3
+  weight: 140
+- identifier: ce4c90ec-c2fb-3000-9355-7e60b8057994
+  name: Quadratic Roots
+  parent: eb35763e-4457-1074-0617-fdcde7901af1
+  url: /pages/python-tutorial/part-4
+  weight: 150
+- identifier: 57d4e60d-992f-a07b-e58a-3a6eb537581e
+  name: Loops and List Comprehensions
+  parent: eb35763e-4457-1074-0617-fdcde7901af1
+  url: /pages/python-tutorial/part-5
+  weight: 160
+- identifier: 2bb3ee0d-342c-8763-0f58-9691f27ba007
+  name: Arrays as Lists of Lists
+  parent: eb35763e-4457-1074-0617-fdcde7901af1
+  url: /pages/python-tutorial/part-6
+  weight: 170
+- identifier: e9eff05a-fba0-05d6-b94c-6396635771d3
+  name: Association Lists
+  parent: eb35763e-4457-1074-0617-fdcde7901af1
+  url: /pages/python-tutorial/part-7
+  weight: 180
+- identifier: 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b
+  name: 'Unit 1: Software Engineering'
+  url: /pages/unit-1-software-engineering/
+  weight: 190
+- identifier: cb0b0a8c-7715-b7fb-9536-b7d77a728231
+  name: Object-Oriented Programming
+  parent: 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b
+  url: /pages/unit-1-software-engineering/object-oriented-programming
+  weight: 200
+- identifier: b0e7778a-9914-9a75-aa7b-17b290520cb3
+  name: State Machines
+  parent: 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b
+  url: /pages/unit-1-software-engineering/state-machines
+  weight: 210
+- identifier: 523e1f18-8f85-4804-7030-f2ec4580e9b6
+  name: 'Unit 2: Signals and Systems'
+  url: /pages/unit-2-signals-and-systems/
+  weight: 220
+- identifier: 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8
+  name: Signals and Systems
+  parent: 523e1f18-8f85-4804-7030-f2ec4580e9b6
+  url: /pages/unit-2-signals-and-systems/signals-and-systems
+  weight: 230
+- identifier: 09ae0a4b-00ca-3719-2b3f-fe9f36ca05cd
+  name: LTI Signals and Systems
+  parent: 523e1f18-8f85-4804-7030-f2ec4580e9b6
+  url: /pages/unit-2-signals-and-systems/lti-signals-and-systems
+  weight: 240
+- identifier: 1900980a-94df-dd0b-4f70-fee6ba697a76
+  name: Characterizing System Performance
+  parent: 523e1f18-8f85-4804-7030-f2ec4580e9b6
+  url: /pages/unit-2-signals-and-systems/characterizing-system-performance
+  weight: 250
+- identifier: 65b2b6f4-6f8d-d149-5f79-bc7dbf57364e
+  name: Designing Control Systems
+  parent: 523e1f18-8f85-4804-7030-f2ec4580e9b6
+  url: /pages/unit-2-signals-and-systems/designing-control-systems
+  weight: 260
+- identifier: 24776cfb-b0ec-bc54-3330-815fbee988c9
+  name: Midterm Exam 1
+  url: /pages/midterm-exam-1
+  weight: 270
+- identifier: a1eba704-7e5c-2f54-d1f9-ab12008fb7cc
+  name: 'Unit 3: Circuits'
+  url: /pages/unit-3-circuits/
+  weight: 280
+- identifier: c1a11356-f20d-61ec-dbf3-85a0ade29169
+  name: Circuits
+  parent: a1eba704-7e5c-2f54-d1f9-ab12008fb7cc
+  url: /pages/unit-3-circuits/circuits
+  weight: 290
+- identifier: 6912b6f0-dfbf-7463-fa37-8df8bde18e96
+  name: Op-Amps
+  parent: a1eba704-7e5c-2f54-d1f9-ab12008fb7cc
+  url: /pages/unit-3-circuits/op-amps
+  weight: 300
+- identifier: e019a65f-ac12-802a-35be-220a70b2f839
+  name: Circuit Abstractions
+  parent: a1eba704-7e5c-2f54-d1f9-ab12008fb7cc
+  url: /pages/unit-3-circuits/circuit-abstractions
+  weight: 310
+- identifier: 6f140846-08f8-5898-b504-c894e903e5a7
+  name: Midterm Exam 2
+  url: /pages/midterm-exam-2
+  weight: 320
+- identifier: f216c72d-f519-1296-c531-19833fb7c73a
+  name: 'Unit 4: Probability and Planning'
+  url: /pages/unit-4-probability-and-planning/
+  weight: 330
+- identifier: e97072ec-1818-d115-7deb-3b29326fe85e
+  name: Discrete Probability
+  parent: f216c72d-f519-1296-c531-19833fb7c73a
+  url: /pages/unit-4-probability-and-planning/discrete-probability
+  weight: 340
+- identifier: 78921a7e-c8e9-b114-852d-caa46d83fd04
+  name: State Estimation
+  parent: f216c72d-f519-1296-c531-19833fb7c73a
+  url: /pages/unit-4-probability-and-planning/state-estimation
+  weight: 350
+- identifier: 497582d8-68ca-82e7-7ef7-6b997e187b13
+  name: Search Algorithms
+  parent: f216c72d-f519-1296-c531-19833fb7c73a
+  url: /pages/unit-4-probability-and-planning/search-algorithms
+  weight: 360
+- identifier: da41172c-d83b-2571-9eae-caa5c1bcde32
+  name: Optimizing a Search
+  parent: f216c72d-f519-1296-c531-19833fb7c73a
+  url: /pages/unit-4-probability-and-planning/optimizing-a-search
+  weight: 370
+- identifier: f0df2cae-e4ea-c3e0-a431-246d722e93a5
+  name: Final Exam
+  url: /pages/final-exam
+  weight: 380
+- identifier: 4693343a-ca6c-27fd-0d7c-4a0c569df3d1
+  name: Resource Index
+  url: /pages/resource-index
+  weight: 390
