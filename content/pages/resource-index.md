@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Resource Index
 uid: 4693343a-ca6c-27fd-0d7c-4a0c569df3d1
 ---
@@ -312,7 +314,7 @@ SOLUTIONS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 The first midterm exam covers all topics up to and including Characterizing System Performance
 {{< tdclose >}}
 {{< tdopen >}}
@@ -503,7 +505,7 @@ SOLUTIONS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 The second midterm exam covers all topics up to and including Circuit Abstractions
 {{< tdclose >}}
 {{< tdopen >}}
@@ -709,7 +711,7 @@ SOLUTIONS
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 The final exam is comprehensive across all topics in the course, but topics from Unit 4 are weighted more heavily.
 {{< tdclose >}}
 {{< tdopen >}}

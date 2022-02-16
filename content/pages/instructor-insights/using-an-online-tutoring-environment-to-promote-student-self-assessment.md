@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 title: Using an Online Tutoring Environment to Promote Student Self-Assessment
 uid: 7443b17e-ca68-13d3-084e-83a7f25a4319

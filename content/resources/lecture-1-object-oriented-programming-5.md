@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Circuits
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 7: Circuits'
 uid: 9fe05784-4e79-44c5-39f1-5aa427f7e263

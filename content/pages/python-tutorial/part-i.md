@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Python Tutorial
+parent_type: CourseSection
 parent_uid: eb35763e-4457-1074-0617-fdcde7901af1
 title: Types, Values, Expressions; Variables and Binding
 uid: ffa6b18b-9208-3825-b5c2-29de088ec938

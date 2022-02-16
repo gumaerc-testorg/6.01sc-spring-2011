@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Python Tutorial
+parent_type: CourseSection
 parent_uid: eb35763e-4457-1074-0617-fdcde7901af1
 title: Using if, else, and while
 uid: 14427f34-8f48-0109-8fbb-e6ee945756d4

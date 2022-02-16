@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Python Tutorial
+parent_type: CourseSection
 parent_uid: eb35763e-4457-1074-0617-fdcde7901af1
 title: Arrays as Lists of Lists
 uid: 2bb3ee0d-342c-8763-0f58-9691f27ba007

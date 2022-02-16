@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Op-Amps
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Recitation 11: Op-Amps'
 uid: 318bfd15-daa7-da71-2fca-dc365bcf72d1

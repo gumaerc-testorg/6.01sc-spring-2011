@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 3: Circuits'
+parent_type: CourseSection
 parent_uid: a1eba704-7e5c-2f54-d1f9-ab12008fb7cc
 title: Circuit Abstractions
 uid: e019a65f-ac12-802a-35be-220a70b2f839

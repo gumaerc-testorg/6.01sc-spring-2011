@@ -24,12 +24,12 @@
   "legacy_uid": "a6fb3e82-ce4c-5f1c-99b8-58b3950d498d",
   "instructors": {
     "content": [
-      "de94fd31-c5dc-a8bf-9674-7c242c7bdb65",
-      "906e81f9-870c-8257-2f99-45848818a2b7",
-      "81a7b7fc-4d59-9533-8cef-a77565f79073",
-      "38973de5-71fc-27f5-2642-c330c2c9ed57",
       "f67b045f-a616-c7b6-5e32-d48b64b8e549",
-      "385c9acd-a3d7-e6ec-306d-36e8bbddb118"
+      "81a7b7fc-4d59-9533-8cef-a77565f79073",
+      "906e81f9-870c-8257-2f99-45848818a2b7",
+      "38973de5-71fc-27f5-2642-c330c2c9ed57",
+      "385c9acd-a3d7-e6ec-306d-36e8bbddb118",
+      "de94fd31-c5dc-a8bf-9674-7c242c7bdb65"
     ],
     "website": "ocw-www"
   },

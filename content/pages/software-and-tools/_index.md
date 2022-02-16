@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Software and Tools
 uid: 7ff627d1-c807-cddd-75e0-3d0659f60269
 ---

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 title: "Becoming More Cognizant of Students\u2019 Learning"
 uid: 7852895b-37bf-8286-e877-95a85c35d2d7

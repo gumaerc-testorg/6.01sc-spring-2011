@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 1: Software Engineering'
 uid: 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b
 ---

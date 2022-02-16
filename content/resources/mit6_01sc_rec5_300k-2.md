@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/7af5e18a49ec59608ec88c9169d8f54f_MIT6_01SC_rec5_300k.vtt
+file: /media/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/7af5e18a49ec59608ec88c9169d8f54f_MIT6_01SC_rec5_300k.vtt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: MIT6_01SC_rec5_300k.srt
 uid: 7af5e18a-49ec-5960-8ec8-8c9169d8f54f

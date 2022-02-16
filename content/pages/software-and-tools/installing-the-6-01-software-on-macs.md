@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Software and Tools
+parent_type: CourseSection
 parent_uid: 7ff627d1-c807-cddd-75e0-3d0659f60269
 title: Installing the 6.01 Software on Macs
 uid: aa4c5c32-a0fc-63d4-cc8b-e09590cdc1cb

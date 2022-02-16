@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 2: Signals and Systems'
 uid: 523e1f18-8f85-4804-7030-f2ec4580e9b6
 ---

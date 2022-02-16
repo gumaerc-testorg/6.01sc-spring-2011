@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 1: Software Engineering'
+parent_type: CourseSection
 parent_uid: 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b
 title: Object-Oriented Programming
 uid: cb0b0a8c-7715-b7fb-9536-b7d77a728231

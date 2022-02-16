@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Probability and Planning'
+parent_type: CourseSection
 parent_uid: f216c72d-f519-1296-c531-19833fb7c73a
 title: State Estimation
 uid: 78921a7e-c8e9-b114-852d-caa46d83fd04

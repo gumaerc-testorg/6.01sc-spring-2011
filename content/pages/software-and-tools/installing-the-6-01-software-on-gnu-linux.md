@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Software and Tools
+parent_type: CourseSection
 parent_uid: 7ff627d1-c807-cddd-75e0-3d0659f60269
 title: Installing the 6.01 Software on GNU/Linux
 uid: f1bdaacf-7071-5579-04da-a1ee567058ad

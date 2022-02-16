@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Python Tutorial
+parent_type: CourseSection
 parent_uid: eb35763e-4457-1074-0617-fdcde7901af1
 title: Functions and Scope
 uid: f7d78d74-5ad0-846f-c9e2-c2ee7ece5ed1

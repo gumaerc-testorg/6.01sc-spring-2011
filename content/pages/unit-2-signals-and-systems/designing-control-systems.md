@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 2: Signals and Systems'
+parent_type: CourseSection
 parent_uid: 523e1f18-8f85-4804-7030-f2ec4580e9b6
 title: Designing Control Systems
 uid: 65b2b6f4-6f8d-d149-5f79-bc7dbf57364e

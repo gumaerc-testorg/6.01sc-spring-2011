@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 3: Circuits'
 uid: a1eba704-7e5c-2f54-d1f9-ab12008fb7cc
 ---

@@ -1,7 +1,10 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 title: Reflecting on Assessment
 uid: 0fbdced9-2346-2bfc-2814-0a1b14fa6d4b

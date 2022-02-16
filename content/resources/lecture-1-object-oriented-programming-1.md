@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: State Machines
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Primitives, Combination, Abstraction, and Patterns'
 uid: fd7cf416-3c42-785e-f3d4-eca16e5f174d

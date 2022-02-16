@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 ---
@@ -63,28 +65,6 @@ Curriculum Information
 ### Offered
 
 Every fall and spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Tiered classroom with red tablet armchairs. Five sliding blackboards and a table are at the front of the classroom.]({{< resource_file fa857e42-ba48-7895-d993-2cd7a470bd5c >}})
-    
-    ![](/images/educator/classroom_prev.png) Room 1 of 2 [![Click for next classroom.](/images/educator/classroom_next.png)](#)
-    
-    ### Lecture
-    
-    Lectures are typically held in a classroom that seats more than 300 students and is equipped with A/V equipment.
-    
-*   ![Classroom with 13 square tables visible. Four laptops are on the table closest to the viewer. Four black chairs on wheels are arranged around each table. A blackboard lines one wall.]({{< resource_file b7fee315-a650-cd69-bf34-e3d55501ee8b >}})
-    
-    [![Click for previous classroom.](/images/educator/classroom_prev.png)](#) Room 2 of 2 ![](/images/educator/classroom_next.png)
-    
-    ### Lab
-    
-    Software and design labs are held in a space with tables that can seat up to 8 students with laptops. There is enough space between the tables for robots to roam.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
