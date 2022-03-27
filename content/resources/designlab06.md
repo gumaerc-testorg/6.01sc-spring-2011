@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Designing Control Systems
 parent_type: CourseSection
+parent_uid: 65b2b6f4-6f8d-d149-5f79-bc7dbf57364e
 resourcetype: Other
 title: designLab06.zip
 uid: d5f2dea1-2941-03b4-fe0c-63f94b002afe

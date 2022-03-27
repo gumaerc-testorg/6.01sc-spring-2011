@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: State Machines
 parent_type: CourseSection
+parent_uid: b0e7778a-9914-9a75-aa7b-17b290520cb3
 resourcetype: Other
 title: hw1.zip
 uid: 2028afd5-cf3e-ce2b-b1f8-bd5855a701e1

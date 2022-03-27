@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
+parent_uid: 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8
 resourcetype: Document
 title: MIT6_01SCS11_lec03_handout.pdf
 uid: 921906c5-cea9-5b6a-532d-bd727b62e33a

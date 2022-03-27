@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Op-Amps
 parent_type: CourseSection
+parent_uid: 6912b6f0-dfbf-7463-fa37-8df8bde18e96
 resourcetype: Document
 title: MIT6_01SCS11_lec08_handout.pdf
 uid: 39673141-5ce0-d1e6-c1a7-86f656e1a21b

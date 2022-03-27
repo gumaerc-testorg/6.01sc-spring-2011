@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Discrete Probability
 parent_type: CourseSection
+parent_uid: e97072ec-1818-d115-7deb-3b29326fe85e
 resourcetype: Other
 title: designLab10.zip
 uid: 5ee9e46f-bc3f-2e6b-ac66-af2462d172ef

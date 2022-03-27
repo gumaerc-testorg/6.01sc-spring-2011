@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
+parent_uid: 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8
 resourcetype: Other
 title: designLab03.zip
 uid: 939392fd-37d2-11b5-d8e2-384edfff3978

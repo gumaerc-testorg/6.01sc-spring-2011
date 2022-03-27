@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: State Machines
 parent_type: CourseSection
+parent_uid: b0e7778a-9914-9a75-aa7b-17b290520cb3
 resourcetype: Document
 title: MIT6_01SCS11_lec02.pdf
 uid: efc92105-bf58-d625-dbdf-ff3a8eb3d9fc

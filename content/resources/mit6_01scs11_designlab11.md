@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: State Estimation
 parent_type: CourseSection
+parent_uid: 78921a7e-c8e9-b114-852d-caa46d83fd04
 resourcetype: Document
 title: MIT6_01SCS11_designLab11.pdf
 uid: d48ae9c9-0b69-0c2d-2e23-b7a6c02d4c8c

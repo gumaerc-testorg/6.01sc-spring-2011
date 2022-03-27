@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Signals and Systems
 parent_type: CourseSection
+parent_uid: 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8
 resourcetype: Document
 title: MIT6_01SCS11_quiz03.pdf
 uid: eead62e3-2085-8a06-951b-607cc31be3c2

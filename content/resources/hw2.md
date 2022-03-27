@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Characterizing System Performance
 parent_type: CourseSection
+parent_uid: 1900980a-94df-dd0b-4f70-fee6ba697a76
 resourcetype: Other
 title: hw2.zip
 uid: 9af21662-44f5-c9a0-1596-ebc07b56d28e

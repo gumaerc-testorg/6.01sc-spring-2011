@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Circuits
 parent_type: CourseSection
+parent_uid: c1a11356-f20d-61ec-dbf3-85a0ade29169
 resourcetype: Other
 title: designLab07.zip
 uid: be63c43f-d123-82aa-adaa-29dc085288d3

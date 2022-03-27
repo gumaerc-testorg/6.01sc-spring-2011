@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Designing Control Systems
 parent_type: CourseSection
+parent_uid: 65b2b6f4-6f8d-d149-5f79-bc7dbf57364e
 resourcetype: Document
 title: MIT6_01SCS11_lec06_handout.pdf
 uid: 45b4293f-c23f-a473-1be9-d0d59f4f212d

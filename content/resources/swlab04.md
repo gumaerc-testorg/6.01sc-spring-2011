@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Linear Time-Invariant Signals and Systems
 parent_type: CourseSection
+parent_uid: 09ae0a4b-00ca-3719-2b3f-fe9f36ca05cd
 resourcetype: Other
 title: swLab04.zip
 uid: b3d190f7-2d19-2d54-5598-c9d0b6a99e27

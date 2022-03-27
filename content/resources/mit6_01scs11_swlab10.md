@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Discrete Probability
 parent_type: CourseSection
+parent_uid: e97072ec-1818-d115-7deb-3b29326fe85e
 resourcetype: Document
 title: MIT6_01SCS11_swLab10.pdf
 uid: 674c6976-840b-2d88-6ab8-ddc914765efc

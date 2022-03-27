@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: State Machines
 parent_type: CourseSection
+parent_uid: b0e7778a-9914-9a75-aa7b-17b290520cb3
 resourcetype: Document
 title: MIT6_01SCS11_quiz02.pdf
 uid: 8728cc3e-ee60-d09d-b6bb-43de4c46ca1f

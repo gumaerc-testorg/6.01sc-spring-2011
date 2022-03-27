@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Optimizing a Search
 parent_type: CourseSection
+parent_uid: da41172c-d83b-2571-9eae-caa5c1bcde32
 resourcetype: Document
 title: MIT6_01SCS11_swLab14.pdf
 uid: cae1b8b5-66e4-65b5-ab4a-613fe7065f8e

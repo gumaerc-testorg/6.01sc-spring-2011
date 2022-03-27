@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Circuit Abstractions
 parent_type: CourseSection
+parent_uid: e019a65f-ac12-802a-35be-220a70b2f839
 resourcetype: Document
 title: MIT6_01SCS11_chap06.pdf
 uid: 321581bc-448d-021c-2d27-7875992f7446

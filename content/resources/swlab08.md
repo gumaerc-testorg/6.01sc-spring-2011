@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Op-Amps
 parent_type: CourseSection
+parent_uid: 6912b6f0-dfbf-7463-fa37-8df8bde18e96
 resourcetype: Other
 title: swLab08.zip
 uid: 873416b2-d6d5-b052-23f2-b3f8385c67e1

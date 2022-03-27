@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Characterizing System Performance
 parent_type: CourseSection
+parent_uid: 1900980a-94df-dd0b-4f70-fee6ba697a76
 resourcetype: Other
 title: designLab05.zip
 uid: 095da274-9d69-80dc-d503-1bca5ae64150

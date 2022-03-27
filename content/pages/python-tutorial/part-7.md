@@ -15,7 +15,7 @@ The idea of a dictionary is very important and useful in programming. A dictiona
 
 Python has a built-in dictionary data structure, which you have read about already. We can make our own, simpler and less efficient data structure as a list of lists. It operates like this:
 
-d = emptyAlist()  
+`d = emptyAlist()  
 \>>> addEntry(d, 4, 5)  
 \>>> addEntry(d, 5, None)  
 \>>> addEntry(d, 'ben', 'boa')  
@@ -27,7 +27,7 @@ d = emptyAlist()
 \[\[4, 5\], \[5, None\], \['ben', 'boa'\], \['kim', 'krait'\], \['bella', 'bi-colored-python-rock-snake'\]\]  
 \>>> lookup(d, 'ben')  
 \['ben', 'boa'\]  
-\>>> lookup(d, 'biz')
+\>>> lookup(d, 'biz')`
 
 The problems in the table below are taken from the 6.01 Python Tutor, an interactive environment that is not available on OCW. Do not try to answer these questions in the PDF files; answers will not be checked, and cannot be submitted.
 

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: State Estimation
 parent_type: CourseSection
+parent_uid: 78921a7e-c8e9-b114-852d-caa46d83fd04
 resourcetype: Document
 title: MIT6_01SCS11_quiz11_sol.pdf
 uid: 4bf983b7-2d7b-6336-675b-b33e14a7fc06

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Circuits
 parent_type: CourseSection
+parent_uid: c1a11356-f20d-61ec-dbf3-85a0ade29169
 resourcetype: Document
 title: MIT6_01SCS11_quiz07.pdf
 uid: 8ccbd850-a3ca-0efc-27d4-26b5fa44aecb

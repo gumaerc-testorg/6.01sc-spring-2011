@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Circuits
 parent_type: CourseSection
+parent_uid: c1a11356-f20d-61ec-dbf3-85a0ade29169
 resourcetype: Document
 title: MIT6_01SCS11_designLab07.pdf
 uid: e949fa13-9d3c-0e1d-e448-0699bc8a6f80

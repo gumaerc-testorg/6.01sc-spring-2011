@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Optimizing a Search
 parent_type: CourseSection
+parent_uid: da41172c-d83b-2571-9eae-caa5c1bcde32
 resourcetype: Other
 title: swLab14.zip
 uid: 01f0f94f-591f-7020-ef71-8a2dafbc2aaa

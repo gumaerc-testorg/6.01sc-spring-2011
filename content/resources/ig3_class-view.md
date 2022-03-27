@@ -15,6 +15,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Electronic Help Queue
 parent_type: CourseSection
+parent_uid: e5627dfb-5583-4b92-360e-5e5b805c607a
 resourcetype: Image
 title: ig3_class-view.png
 uid: 0edde042-2522-d9b0-8381-d61fedb4773d

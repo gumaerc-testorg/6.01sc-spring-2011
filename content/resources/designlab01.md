@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Object-Oriented Programming
 parent_type: CourseSection
+parent_uid: cb0b0a8c-7715-b7fb-9536-b7d77a728231
 resourcetype: Other
 title: designLab01.zip
 uid: 2a0d66f4-af09-ceee-7029-54c28979bec9

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Object-Oriented Programming
 parent_type: CourseSection
+parent_uid: cb0b0a8c-7715-b7fb-9536-b7d77a728231
 resourcetype: Document
 title: MIT6_01SCS11_swLab01.pdf
 uid: a53088e7-243a-7e7e-e952-8d050a6d7004

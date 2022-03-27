@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Discrete Probability
 parent_type: CourseSection
+parent_uid: e97072ec-1818-d115-7deb-3b29326fe85e
 resourcetype: Document
 title: MIT6_01SCS11_lec10_handout.pdf
 uid: 79ddcd38-b399-ca5f-8b18-107f668bc0aa

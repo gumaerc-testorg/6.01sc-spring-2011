@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
+parent_uid: f0df2cae-e4ea-c3e0-a431-246d722e93a5
 resourcetype: Document
 title: MIT6_01SCS11_final_S11_sol.pdf
 uid: d4e866df-2447-4de6-9e2f-6e0ed5f1dc4b

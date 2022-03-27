@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Search Algorithms
 parent_type: CourseSection
+parent_uid: 497582d8-68ca-82e7-7ef7-6b997e187b13
 resourcetype: Document
 title: MIT6_01SCS11_lec12_handout.pdf
 uid: 1bbeb0c9-7cae-13ae-58e1-efba4fcdc1af

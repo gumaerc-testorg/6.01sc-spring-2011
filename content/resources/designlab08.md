@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Op-Amps
 parent_type: CourseSection
+parent_uid: 6912b6f0-dfbf-7463-fa37-8df8bde18e96
 resourcetype: Other
 title: designLab08.zip
 uid: b8e08eda-6564-0cd5-5a67-9fbda8975d69

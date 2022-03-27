@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Object-Oriented Programming
 parent_type: CourseSection
+parent_uid: cb0b0a8c-7715-b7fb-9536-b7d77a728231
 resourcetype: Other
 title: swLab01.zip
 uid: d65f0dc2-eb97-b9c7-3f7a-bc1b694bb78c

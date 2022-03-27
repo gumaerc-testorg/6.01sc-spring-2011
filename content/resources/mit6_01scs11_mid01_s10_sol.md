@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Midterm Exam 1
 parent_type: CourseSection
+parent_uid: 24776cfb-b0ec-bc54-3330-815fbee988c9
 resourcetype: Document
 title: MIT6_01SCS11_mid01_S10_sol.pdf
 uid: 0782f4b5-9a6c-cb4e-f56c-781fa4081d7d

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Characterizing System Performance
 parent_type: CourseSection
+parent_uid: 1900980a-94df-dd0b-4f70-fee6ba697a76
 resourcetype: Document
 title: MIT6_01SCS11_chap05.pdf
 uid: 1268f328-9b19-d628-e9be-3bd2ecfb4f44

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Software and Tools
 parent_type: CourseSection
+parent_uid: 7ff627d1-c807-cddd-75e0-3d0659f60269
 resourcetype: Document
 title: MIT6_01SCS11_lab_guide.pdf
 uid: 298b9a05-680a-016b-13db-6aa79071d9fa

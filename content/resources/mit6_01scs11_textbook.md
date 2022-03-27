@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: a867cb2b-8f18-9ea6-007b-e4cfcac89b0e
 resourcetype: Document
 title: Introduction to Electrical Engineering and Computer Science I
 uid: b2d8cb0b-b074-14a2-1f5e-c444fd00d608

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Installing the 6.01 Software on Windows 7/XP (32-bit)
 parent_type: CourseSection
+parent_uid: 749135ae-ad3f-8e6f-ea41-7ead25446e40
 resourcetype: Other
 title: idle-n.zip
 uid: d102eda9-05cf-2b3b-f2ad-63c2d1dc497c

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Designing Control Systems
 parent_type: CourseSection
+parent_uid: 65b2b6f4-6f8d-d149-5f79-bc7dbf57364e
 resourcetype: Document
 title: MIT6_01SCS11_quiz06.pdf
 uid: b73bab5e-af81-45a4-a2b9-7825459d47b0

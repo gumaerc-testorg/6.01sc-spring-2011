@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Unit 2: Signals and Systems'
 parent_type: CourseSection
+parent_uid: 523e1f18-8f85-4804-7030-f2ec4580e9b6
 resourcetype: Image
 title: unit2.jpg
 uid: 10171c46-9cd5-4b08-b5ec-e722b134b26c
