@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information on problem on homework 3, head light.
-file: /media/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/774a3549f366da1e75ea2303a433fbae_MIT6_01SCS11_hw3.pdf
+file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/774a3549f366da1e75ea2303a433fbae_MIT6_01SCS11_hw3.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -12,3 +12,5 @@ resourcetype: Document
 title: MIT6_01SCS11_hw3.pdf
 uid: 774a3549-f366-da1e-75ea-2303a433fbae
 ---
+This resource contains information on problem on homework 3, head light.
+

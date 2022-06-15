@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This session contains readings, lecture video, design lab, optional exercises,
+  and a nano-quiz.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: 'Unit 2: Signals and Systems'
@@ -9,7 +11,7 @@ title: Designing Control Systems
 uid: 65b2b6f4-6f8d-d149-5f79-bc7dbf57364e
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-signals-and-systems/characterizing-system-performance) | [Next]({{< baseurl >}}/pages/midterm-exam-1) »
+« {{% resource_link 1900980a-94df-dd0b-4f70-fee6ba697a76 "Previous" %}} | {{% resource_link 24776cfb-b0ec-bc54-3330-815fbee988c9 "Next" %}} »
 
 Session Overview
 ----------------
@@ -17,7 +19,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Graph showing the sum of two components.]({{< resource_file 9528b16e-502d-54c0-887c-cb37ea3be948 >}}) 
+{{< resource 9528b16e-502d-54c0-887c-cb37ea3be948 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -26,7 +28,7 @@ In this session, we look at how to put all the components of the Signals and Sys
 
 The overview handout provides a more detailed introduction, including the big ideas of the session, key vocabulary, what you should understand (theory) and be able to do (practice) after completing this session, and additional resources.
 
-*   [Session 6 Handout: Designing Control Systems (PDF)]({{< baseurl >}}/resources/mit6_01scs11_ses06)
+*   {{% resource_link ad511177-1d23-b4bd-8ed3-001350fd605e "Session 6 Handout: Designing Control Systems (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -42,20 +44,20 @@ Session Content
 
 Review sections 5.1-5.7 of the course notes, which were assigned in the last two sessions. The worked examples in section 5.8 may also be useful.
 
-*   [Chapter 5: Signals and Systems (PDF - 1.7MB)]({{< baseurl >}}/resources/mit6_01scs11_chap05-2)
+*   {{% resource_link 29dbbeba-bfd7-e6f0-b884-0ee950de931f "Chapter 5: Signals and Systems (PDF - 1.7MB)" %}}
 
 ### Lecture Video
 
 Watch the lecture video. The handout and slides present the same material, but the slides include answers to the in-class questions.
 
-*   [Lecture 6: Designing Control Systems]({{< baseurl >}}/resources/lecture-1-object-oriented-programming-4)
+*   {{% resource_link ec1daae8-fe0f-5dad-365f-b58e2a0f3def "Lecture 6: Designing Control Systems" %}}
 
 > ### About this Video
 > 
 > System functions provide a summary of information that help optimize the design of a control system. Poles are discussed further, based on their location on the unit circle.
 
-*   [Lecture handout (PDF)]({{< baseurl >}}/resources/mit6_01scs11_lec06_handout)
-*   [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_01scs11_lec06)
+*   {{% resource_link 45b4293f-c23f-a473-1be9-d0d59f4f212d "Lecture handout (PDF)" %}}
+*   {{% resource_link 459162ce-80cd-4f82-d9a7-a6acdc35b3bd "Lecture slides (PDF)" %}}
 
 Session Activities
 ------------------
@@ -64,8 +66,8 @@ The problems in the tables below are taken from the 6.01 Online Tutor, an intera
 
 ### Design Lab
 
-*   [Design Lab 6: Sizable Following (PDF)]({{< baseurl >}}/resources/mit6_01scs11_designlab06)
-*   [Code for Design Lab 6 (ZIP)]({{< baseurl >}}/resources/designlab06) (This ZIP file contains: 3 .py files.)
+*   {{% resource_link c4ade296-733d-0be2-7074-bc6eb42b78db "Design Lab 6: Sizable Following (PDF)" %}}
+*   {{% resource_link d5f2dea1-2941-03b4-fe0c-63f94b002afe "Code for Design Lab 6 (ZIP)" %}} (This ZIP file contains: 3 .py files.)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -85,7 +87,7 @@ QUESTIONS
 6.1.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Proportional plus delay (PDF)]({{< baseurl >}}/resources/mit6_01scs11_6_1_1)
+{{% resource_link ce186cae-aa54-c2bb-76a8-67beb9286a59 "Proportional plus delay (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +96,7 @@ QUESTIONS
 6.1.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Proportional plus angle (PDF)]({{< baseurl >}}/resources/mit6_01scs11_6_1_3)
+{{% resource_link fab6ec1e-1683-eafe-10cd-46a7ef9b477c "Proportional plus angle (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +123,7 @@ QUESTIONS
 6.2.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Control system analysis (PDF)]({{< baseurl >}}/resources/mit6_01scs11_6_2_1)
+{{% resource_link 0f8d5585-770c-b9d5-be3b-a90ef961a835 "Control system analysis (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +132,7 @@ QUESTIONS
 6.2.2
 {{< tdclose >}}
 {{< tdopen >}}
-[System representations (PDF)]({{< baseurl >}}/resources/mit6_01scs11_6_2_2)
+{{% resource_link a7c47e38-b678-a770-91de-c59de0c85d75 "System representations (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +146,7 @@ Check Yourself
 
 Nano-quiz problems and solutions are taken from a previous version of the 6.01 Online Tutor. Do not try to answer these questions in the PDF files; answers will not be checked, and cannot be submitted.
 
-*   [Quiz Problem (PDF)]({{< baseurl >}}/resources/mit6_01scs11_quiz06)
-*   [Quiz Solution (PDF)]({{< baseurl >}}/resources/mit6_01scs11_quiz06_sol)
+*   {{% resource_link b73bab5e-af81-45a4-a2b9-7825459d47b0 "Quiz Problem (PDF)" %}}
+*   {{% resource_link 88dc5538-c694-b5a6-eb63-30a78d43ef36 "Quiz Solution (PDF)" %}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-signals-and-systems/characterizing-system-performance) | [Next]({{< baseurl >}}/pages/midterm-exam-1) »
+« {{% resource_link 1900980a-94df-dd0b-4f70-fee6ba697a76 "Previous" %}} | {{% resource_link 24776cfb-b0ec-bc54-3330-815fbee988c9 "Next" %}} »

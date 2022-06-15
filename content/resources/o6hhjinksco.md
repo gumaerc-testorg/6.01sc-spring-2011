@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/c50a018552d3f7012bcf03827ad1f344_O6HHjiNKsco.srt
+file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/c50a018552d3f7012bcf03827ad1f344_O6HHjiNKsco.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

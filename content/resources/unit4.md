@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/a9068a5c04904fc610060d0b8ddc81a8_unit4.jpg
+file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/a9068a5c04904fc610060d0b8ddc81a8_unit4.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

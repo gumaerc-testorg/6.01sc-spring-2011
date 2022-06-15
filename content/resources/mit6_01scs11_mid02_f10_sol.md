@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information solution of problem on analyzing circuit,
   op amps, and designing circuits.
-file: /media/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/cf18baa007f2c3cb2c67af27e15d074d_MIT6_01SCS11_mid02_F10_sol.pdf
+file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/cf18baa007f2c3cb2c67af27e15d074d_MIT6_01SCS11_mid02_F10_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
@@ -13,3 +13,5 @@ resourcetype: Document
 title: MIT6_01SCS11_mid02_F10_sol.pdf
 uid: cf18baa0-07f2-c3cb-2c67-af27e15d074d
 ---
+This resource contains information solution of problem on analyzing circuit, op amps, and designing circuits.
+

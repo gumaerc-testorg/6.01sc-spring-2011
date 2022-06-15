@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains instructions for installing the 6.01 software on
+  Windows 7/XP (32-bit).
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Software and Tools
@@ -9,7 +11,7 @@ title: Installing the 6.01 Software on Windows 7/XP (32-bit)
 uid: 749135ae-ad3f-8e6f-ea41-7ead25446e40
 ---
 
-« [Previous]({{< baseurl >}}/pages/software-and-tools)
+« {{% resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Previous" %}}
 
 A. Download the Software
 ------------------------
@@ -18,7 +20,7 @@ Download the following files to your desktop:
 
 *   The appropriate Windows installer for [Python 2.6.x](http://www.python.org/ftp/python/2.6.6/python-2.6.6.msi)
 *   [numpy for Python 2.6.x](http://sourceforge.net/projects/numpy/files/NumPy/1.5.1/numpy-1.5.1-win32-superpack-python2.6.exe/download)
-*   [Soar, CMax, and lib601 installer]({{< baseurl >}}/resources/lib601-3-500-win32). (**Win7 Must Run as Administrator**). Right-click on installer and choose "Run as Administrator".
+*   {{% resource_link cfee1efb-d62c-543b-0863-3cb96f74c573 "Soar, CMax, and lib601 installer" %}}. (**Win7 Must Run as Administrator**). Right-click on installer and choose "Run as Administrator".
 
 B. Install the Python Language
 ------------------------------
@@ -36,7 +38,7 @@ C. Check that Python Works
     \>>> 2\*\*10  
     and press Enter. The result should be 2{{< sup "10" >}}, or 1024. Try computing 2{{< sup "1000" >}} and verify that this works as well.
 3.  If this works, you've (probably) successfully installed Python. Exit idle by selecting exit from the file menu. Ask for help if something has gone wrong.
-4.  Download [idle-n.zip]({{< baseurl >}}/resources/idle-n-1) and extract the .bat file. This file will let you start idle with the "-n" flag that allows it to generate plots properly.
+4.  Download {{% resource_link d102eda9-05cf-2b3b-f2ad-63c2d1dc497c "idle-n.zip" %}} and extract the .bat file. This file will let you start idle with the "-n" flag that allows it to generate plots properly.
 
 D. Install Numpy
 ----------------
@@ -61,4 +63,4 @@ You can now remove the installer files that you downloaded to your desktop.
 
 If you just want to write Python scripts, without needing to use soar, you can open up idle directly. Go to Start | All Programs | Python 2.6 | idle (Python GUI). This will bring up the idle editor that you use during lab.
 
-« [Previous]({{< baseurl >}}/pages/software-and-tools)
+« {{% resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Previous" %}}

@@ -1,14 +1,15 @@
 ---
 content_type: page
+description: This page contains Midterm 1 exams and solutions from several semesters.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Midterm Exam 1
 uid: 24776cfb-b0ec-bc54-3330-815fbee988c9
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-2-signals-and-systems/designing-control-systems) | [Next]({{< baseurl >}}/pages/unit-3-circuits) »
+« {{% resource_link 65b2b6f4-6f8d-d149-5f79-bc7dbf57364e "Previous" %}} | {{% resource_link a1eba704-7e5c-2f54-d1f9-ab12008fb7cc "Next" %}} »
 
-The first midterm exam covers all topics up to and including [Characterizing System Performance]({{< baseurl >}}/pages/unit-2-signals-and-systems/characterizing-system-performance). This page contains exams and solutions from several semesters.
+The first midterm exam covers all topics up to and including {{% resource_link 1900980a-94df-dd0b-4f70-fee6ba697a76 "Characterizing System Performance" %}}. This page contains exams and solutions from several semesters.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -31,10 +32,10 @@ SOLUTIONS
 Spring 2011
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_01scs11_mid01_s11))
+({{% resource_link d46954fb-c5c2-ca4a-dd11-19785c0215ec "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_01scs11_mid01_s11_sol))
+({{% resource_link 976e11ed-2fa0-8bac-f0a7-587bfa037672 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,10 +44,10 @@ Spring 2011
 Fall 2010
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_01scs11_mid01_f10))
+({{% resource_link b3e50ecc-435e-48f1-5b95-1bc0e9af08ce "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_01scs11_mid01_f10_sol))
+({{% resource_link df24ab95-3dad-12be-2047-4e0181f8fc58 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,10 +56,10 @@ Fall 2010
 Spring 2010
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_01scs11_mid01_s10))
+({{% resource_link 8f817d1c-e910-0717-1d23-c3328060b37c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_01scs11_mid01_s10_sol))
+({{% resource_link 0782f4b5-9a6c-cb4e-f56c-781fa4081d7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,14 +68,14 @@ Spring 2010
 Fall 2009
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_01scs11_mid01_f09))
+({{% resource_link 8048fee7-e30c-27d1-ebcc-7fe83e91b5b4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit6_01scs11_mid01_f09_sol))
+({{% resource_link 9c1e8568-c5a6-c60d-4a5f-81aa96d7d421 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-2-signals-and-systems/designing-control-systems) | [Next]({{< baseurl >}}/pages/unit-3-circuits) »
+« {{% resource_link 65b2b6f4-6f8d-d149-5f79-bc7dbf57364e "Previous" %}} | {{% resource_link a1eba704-7e5c-2f54-d1f9-ab12008fb7cc "Next" %}} »
