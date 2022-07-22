@@ -1,0 +1,61 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Software Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ]
+  ],
+  "legacy_uid": "a6fb3e82-ce4c-5f1c-99b8-58b3950d498d",
+  "instructors": {
+    "content": [
+      "f67b045f-a616-c7b6-5e32-d48b64b8e549",
+      "81a7b7fc-4d59-9533-8cef-a77565f79073",
+      "906e81f9-870c-8257-2f99-45848818a2b7",
+      "38973de5-71fc-27f5-2642-c330c2c9ed57",
+      "385c9acd-a3d7-e6ec-306d-36e8bbddb118",
+      "de94fd31-c5dc-a8bf-9674-7c242c7bdb65"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "10c71ca3-e6dd-8c0d-7be8-178009fc33e8",
+    "website": "6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011"
+  },
+  "course_title": "Introduction to Electrical Engineering and Computer Science I",
+  "course_description": "This course provides an integrated introduction to electrical engineering and computer science, taught using substantial laboratory experiments with mobile robots. Our primary goal is for you to learn to appreciate and use the fundamental design principles of modularity and abstraction in a variety of contexts from electrical engineering and computer science.\n\nOur second goal is to show you that making mathematical models of real systems can help in the design and analysis of those systems. Finally, we have the more typical goals of teaching exciting and important basic material from electrical engineering and computer science, including modern software engineering, linear systems analysis, electronic circuits, and decision-making.\n##### Course Format\n\n* * *\n\n[![Click to get started.](/images/button_start.png)](pages/Syllabus) This course has been designed for independent study. It includes all of the materials you will need to understand the concepts covered in this subject. The materials in this course include:\n\n*   Lecture videos from Spring 2011, taught by Prof. Dennis Freeman\n*   Recitation videos, developed for OCW Scholar by teaching assistant Kendra Pugh\n*   Course notes\n*   Software and design labs\n*   Homework assignments and additional exercises\n*   Nano-quizzes and exams with solutions\n\n##### Content Development\n\n* * *\n\nLeslie Kaelbling  \nJacob White  \nHarold Abelson  \nDennis Freeman\n\nTom\u00e1s Lozano-P\u00e9rez  \nIsaac Chuang",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.01SC",
+  "course_image_thumbnail": {
+    "content": "62b6e417-dd34-3c9f-eeb0-6371a4654af7",
+    "website": "6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Recitation Videos",
+    "Problem Sets",
+    "Exams with Solutions",
+    "Lecture Notes",
+    "Online Textbook"
+  ],
+  "site_uid": "9f5c92aa-96a9-4e88-9e05-f23adc5b102b",
+  "title": "Course Metadata"
+}
