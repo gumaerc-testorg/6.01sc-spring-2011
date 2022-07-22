@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Photograph of robot with a rotating head that tracks light.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Unit 3: Circuits'
 parent_type: CourseSection

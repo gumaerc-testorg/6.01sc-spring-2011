@@ -5,6 +5,7 @@ description: This resource contains information related to discrete probability 
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/79ddcd38b399ca5f8b18107f668bc0aa_MIT6_01SCS11_lec10_handout.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Discrete Probability
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT6_01SCS11_lec10_handout.pdf
 uid: 79ddcd38-b399-ca5f-8b18-107f668bc0aa
 ---
 This resource contains information related to discrete probability and state estimation.
-

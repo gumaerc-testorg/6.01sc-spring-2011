@@ -12,6 +12,7 @@ image_metadata:
     \ names and pictures; column 2 has the assignment names; column 3 has students\u2019\
     \ table numbers; column 4 has staff names."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Electronic Help Queue
 parent_type: CourseSection

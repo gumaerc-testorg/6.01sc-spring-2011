@@ -12,6 +12,7 @@ image_metadata:
     \ nano quiz 08 in section 1. Number Completed Checkoffs: 83/83 (100.00%) done\
     \ with DL08 Checkoff 1."
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Electronic Help Queue
 parent_type: CourseSection

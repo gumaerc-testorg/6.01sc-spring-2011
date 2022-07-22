@@ -13,6 +13,7 @@ image_metadata:
     \ box with the following text: \u201CYou are in position 1 in the help queue.\u201D\
     \ "
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Electronic Help Queue
 parent_type: CourseSection

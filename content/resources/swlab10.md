@@ -4,6 +4,7 @@ description: ''
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/6f49c20ccbed80b925f707a52db2517a_swLab10.zip
 file_type: application/zip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Discrete Probability
 parent_type: CourseSection

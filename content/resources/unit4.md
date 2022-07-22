@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Two images representing how the robot navigates through a maze.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 'Unit 4: Probability and Planning'
 parent_type: CourseSection
