@@ -1,12 +1,16 @@
 ---
 content_type: page
+description: This section contains Python exercises.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Python Tutorial
+parent_type: CourseSection
 parent_uid: eb35763e-4457-1074-0617-fdcde7901af1
 title: Association Lists
 uid: e9eff05a-fba0-05d6-b94c-6396635771d3
 ---
 
-« [Previous]({{< baseurl >}}/pages/python-tutorial/part-6) | [Next]({{< baseurl >}}/pages/unit-1-software-engineering) »
+« {{% resource_link 2bb3ee0d-342c-8763-0f58-9691f27ba007 "Previous" %}} | {{% resource_link 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b "Next" %}} »
 
 The idea of a dictionary is very important and useful in programming. A dictionary allows you to associate _values_ with _keys_. In an actual English dictionary, the words are the keys and the definitions are the values. So, given a key, you can look up the value. In a phone book, names are the keys and phone numbers are the values.
 
@@ -46,7 +50,7 @@ QUESTIONS
 7.1.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Add an entry to an alist (PDF)]({{< baseurl >}}/resources/mit6_01scs11_py7_1_1)
+{{% resource_link b137abbe-5dd3-bdce-7734-b81c9f98d8ca "Add an entry to an alist (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,11 +59,11 @@ QUESTIONS
 7.1.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Look up an entry in an alist (PDF)]({{< baseurl >}}/resources/mit6_01scs11_py7_1_2)
+{{% resource_link b874c99a-ea29-a928-a62d-3cd159fae56f "Look up an entry in an alist (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/python-tutorial/part-6) | [Next]({{< baseurl >}}/pages/unit-1-software-engineering) »
+« {{% resource_link 2bb3ee0d-342c-8763-0f58-9691f27ba007 "Previous" %}} | {{% resource_link 0c533b50-ae1f-2ed5-2d4e-2e0343b23b5b "Next" %}} »

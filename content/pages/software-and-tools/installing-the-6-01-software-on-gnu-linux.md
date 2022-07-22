@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section contains instructions for installing the 6.01 software on
+  GNU/Linux.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Software and Tools
+parent_type: CourseSection
 parent_uid: 7ff627d1-c807-cddd-75e0-3d0659f60269
 title: Installing the 6.01 Software on GNU/Linux
 uid: f1bdaacf-7071-5579-04da-a1ee567058ad
 ---
 
-« [Previous]({{< baseurl >}}/pages/software-and-tools)
+« {{% resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Previous" %}}
 
 This course makes use of Athena, MIT's UNIX-based computing environment. OCW does not provide access to this environment.
 
@@ -29,7 +34,7 @@ You'll also need Idle or Emacs (and it won't hurt to have both). If your Python 
 C. Get 6.01 Software
 --------------------
 
-Download the [6.01 modules]({{< baseurl >}}/resources/lib601-3-500-tar) to a convenient directory (e.g., ~/Desktop). Open a terminal window, navigate to the Desktop directory by typing a command of the form
+Download the {{% resource_link afbbebcc-ae39-bfa4-2f9d-071e9ed10453 "6.01 modules" %}} to a convenient directory (e.g., ~/Desktop). Open a terminal window, navigate to the Desktop directory by typing a command of the form
 
 \> cd ~/Desktop
 
@@ -44,4 +49,4 @@ Then change directories and do the installation with
 
 You can now delete all of the files created by this operation (i.e., ~/Desktop/lib601-3-500.tar.gz and its associated directory tree). You should now be able to use the lib601 files from Python and to run soar by typing soar at a terminal command prompt.
 
-« [Previous]({{< baseurl >}}/pages/software-and-tools)
+« {{% resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Previous" %}}

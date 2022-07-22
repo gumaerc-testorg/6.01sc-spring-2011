@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Formative Assessment during Design Labs
+parent_type: CourseSection
 parent_uid: e67f5bf6-4bd7-6a03-436b-80ea36e1fa29
 title: Check-off Points
 uid: eb9a5cb2-cbf5-b2b0-ebf8-788b4a823f0d

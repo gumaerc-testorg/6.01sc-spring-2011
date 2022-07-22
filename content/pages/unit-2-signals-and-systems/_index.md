@@ -1,14 +1,17 @@
 ---
 content_type: page
+description: This section provides an overview of the Signals and Systems unit.
+learning_resource_types: []
+ocw_type: CourseSection
 title: 'Unit 2: Signals and Systems'
 uid: 523e1f18-8f85-4804-7030-f2ec4580e9b6
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-1-software-engineering/state-machines) | [Next]({{< baseurl >}}/pages/unit-2-signals-and-systems/signals-and-systems) »
+« {{% resource_link b0e7778a-9914-9a75-aa7b-17b290520cb3 "Previous" %}} | {{% resource_link 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8 "Next" %}} »
 
 This unit focuses on analyzing the behaviors of systems. General principles for developing mathematical models of systems are developed in the context of using feedback in control systems, with tangible applications in robotic steering.
 
- ![Diagram of a vehicle attempting to follow a straight line, and its responses to steering.]({{< resource_file 10171c46-9cd5-4b08-b5ec-e722b134b26c >}})
+ {{< resource 10171c46-9cd5-4b08-b5ec-e722b134b26c >}}
 
 {{< tableopen >}}
 {{< tropen >}}
@@ -41,6 +44,6 @@ modeling complex systems, analyzing behaviors
 
 {{< tableclose >}}
 
-Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
+Looking for something specific in this course? The {{% resource_link 4693343a-ca6c-27fd-0d7c-4a0c569df3d1 "Resource Index" %}} compiles links to most course resources in a single page.
 
-« [Previous]({{< baseurl >}}/pages/unit-1-software-engineering/state-machines) | [Next]({{< baseurl >}}/pages/unit-2-signals-and-systems/signals-and-systems) »
+« {{% resource_link b0e7778a-9914-9a75-aa7b-17b290520cb3 "Previous" %}} | {{% resource_link 6b5aad8b-edd8-1cc6-cd71-6bb0eed5c5d8 "Next" %}} »

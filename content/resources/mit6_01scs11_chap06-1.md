@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: This resource contains information related to circuits.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/79f7978904e1092efba792861ecba736_MIT6_01SCS11_chap06.pdf
+file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/79f7978904e1092efba792861ecba736_MIT6_01SCS11_chap06.pdf
 file_type: application/pdf
+learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+ocw_type: OCWFile
+parent_title: Op-Amps
+parent_type: CourseSection
+parent_uid: 6912b6f0-dfbf-7463-fa37-8df8bde18e96
 resourcetype: Document
 title: MIT6_01SCS11_chap06.pdf
 uid: 79f79789-04e1-092e-fba7-92861ecba736
 ---
+This resource contains information related to circuits.

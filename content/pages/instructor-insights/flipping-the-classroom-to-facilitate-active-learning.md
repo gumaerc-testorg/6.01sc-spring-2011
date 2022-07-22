@@ -1,13 +1,17 @@
 ---
 content_type: page
+description: ''
+draft: false
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 title: Flipping the Classroom to Facilitate Active Learning
 uid: 2280def2-566b-f511-9dc8-6d7e54da9a37
 ---
-
-_In this section, Sanjoy Mahajan describes how Chi and Wylie’s (2014) ICAP Framework shapes how he understands how flipping the classroom in 6.01 Introduction to Electrical Engineering and Computer Science I enables students to engage in deep active learning experiences during lectures and labs._
+_In this section, Sanjoy Mahajan describes how Chi and Wylie’s (2014) ICAP Framework shapes how he understands how flipping the classroom in_ 6.01 Introduction to Electrical Engineering and Computer Science I _enables students to engage in deep active learning experiences during lectures and labs._
 
 The ICAP (Interactive, Constructive, Active, and Passive) Framework, developed by Michelene Chi and Ruth Wylie (2014), is central to my understanding of how _6.01 Introduction to Electrical Engineering and Computer Science I_ functions as a flipped classroom ![](/images/educator/icon-question-flip.png). This framework is a way of thinking about active versus passive learning, and about how different levels of active learning are associated with different depths of learning.
 
@@ -19,11 +23,11 @@ They describe their next level of active learning as _constructive_. At this lev
 
 The highest level of active learning in the ICAP Framework is called _interactive_ learning. At this level, students engage in dialogue with others about the new concepts. This leads to understanding that has the potential to create new ideas.
 
-![Yellow box filled with grey and blue Legos. Other Legos of various shapes and colors on table outside of box. A grey cable rests on top of the Legos. Grey circuit board visible.](/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/instructor-insights/flipping-the-classroom-to-facilitate-active-learning/TLP_8706.JPG)  
+{{< resource 2850e045-1e13-40a7-6505-0347963713da "Yellow box filled with grey and blue Legos. Other Legos of various shapes and colors on table outside of box. A grey cable rests on top of the Legos. Grey circuit board visible." >}}
 
 Students use these materials to build robots during design labs.
 
-In _6.01 Introduction to Electrical Engineering and Computer Science I_ we flip the classroom in the sense that we have students do as much as they can outside of class to climb the active learning hierarchy so that when we’re together in class we can focus on constructive and interactive learning. Outside of class, students not only have readings, but also exercises that require them to write short programs checked by the [online tutor]({{< baseurl >}}/pages/instructor-insights/using-an-online-tutoring-environment-to-promote-student-self-assessment). That’s a constructive activity. It’s also a bit interactive in the sense that students are given multiple submission opportunities. The online tutor will tell them, “Your program ran fine on these particular test cases, but not on these.” Students can try to figure out what went wrong with the program and make corrections.
+In _6.01 Introduction to Electrical Engineering and Computer Science I_ we flip the classroom in the sense that we have students do as much as they can outside of class to climb the active learning hierarchy so that when we’re together in class we can focus on constructive and interactive learning. Outside of class, students not only have readings, but also exercises that require them to write short programs checked by the {{% resource_link 7443b17e-ca68-13d3-084e-83a7f25a4319 "online tutor" %}}. That’s a constructive activity. It’s also a bit interactive in the sense that students are given multiple submission opportunities. The online tutor will tell them, “Your program ran fine on these particular test cases, but not on these.” Students can try to figure out what went wrong with the program and make corrections.
 
 During lectures, we’re constantly giving students multiple-choice concept questions ![](/images/educator/icon-question-conq.png). Students argue with each other about the responses, and engage in what Eric Mazur (1997) calls peer instruction. Those are active experiences.
 

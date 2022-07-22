@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides information on course goals, structure,
+  prerequisites, grading, and course notes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a867cb2b-8f18-9ea6-007b-e4cfcac89b0e
 ---
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/instructor-insights) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 2aef49a5-63b7-0f93-319d-156d62607fed "Next" %}} »
 
 Course Goals
 ------------
@@ -26,7 +30,7 @@ This OCW Scholar course will be most useful to students with the following backg
     *   Sequences and series, some trigonometry (for poles)
     *   No extensive skill with calculus is required, but students should understand that velocity is the derivative of position, and be able to estimate the velocity of an object from a graph of its position.
 *   Programming
-    *   Some programming experience is good, but not necessarily required. The [Python Tutorial]({{< baseurl >}}/pages/python-tutorial) is designed to get students up to speed with Python, while a course like [_6.189 A Gentle Introduction to Programming Using Python_](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/) may be useful for students will little or no programming experience.
+    *   Some programming experience is good, but not necessarily required. The {{% resource_link eb35763e-4457-1074-0617-fdcde7901af1 "Python Tutorial" %}} is designed to get students up to speed with Python, while a course like [_6.189 A Gentle Introduction to Programming Using Python_](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011) may be useful for students will little or no programming experience.
 *   Physics
     *   Some exposure to solving basic circuits: Ohm's law, passive components (such as resistors and capacitors), reducing a circuit to a system of linear equations.
 
@@ -147,8 +151,8 @@ Course Notes
 
 The 6.01 course notes are presented by chapter in the pages that follow. Here is the complete set of notes as one file:
 
-*   [6.01 Course Notes, Spring 2011 (PDF - 5.5MB)]({{< baseurl >}}/resources/mit6_01scs11_textbook)
+*   {{% resource_link b2d8cb0b-b074-14a2-1f5e-c444fd00d608 "6.01 Course Notes, Spring 2011 (PDF - 5.5MB)" %}}
 
 The development of these notes was led by Leslie Kaelbling. Jacob White, Hal Abelson, Tomas Lozano-Perez, Sarah Finney, Sari Canelake, Eric Grimson, Ike Chuang, and Berthold Horn provided useful comments and criticisms, and Dennis Freeman developed significant parts and most of the figures in the Signals and Systems chapter.
 
-« [Previous]({{< baseurl >}}/pages/index.htm) | [Next]({{< baseurl >}}/pages/instructor-insights) »
+« [Previous]({{< baseurl >}}/pages/index.htm) | {{% resource_link 2aef49a5-63b7-0f93-319d-156d62607fed "Next" %}} »

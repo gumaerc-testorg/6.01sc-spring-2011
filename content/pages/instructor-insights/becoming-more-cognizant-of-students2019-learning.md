@@ -1,7 +1,11 @@
 ---
 content_type: page
+description: ''
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 2aef49a5-63b7-0f93-319d-156d62607fed
 title: "Becoming More Cognizant of Students\u2019 Learning"
 uid: 7852895b-37bf-8286-e877-95a85c35d2d7
@@ -16,7 +20,7 @@ As a student, I learned in broadcast mode, and this was also the way I taught fo
 
 I know, because I interact with students in the lab immediately following lecture. I have often given what I believed was a dazzling lecture, only to find that students in the lab hadn't understood even a small fraction of what I had talked about. In one instance, for example, students weren't able to apply the content of the lecture to the circuits that they were designing, even though, for me, the lecture had explained everything. 
 
-The [practice-theory-practice approach]({{< baseurl >}}/pages/instructor-insights/shifting-to-a-practice-theory-practice-approach) is learning-centric, rather than teaching-centric, and, as a result, I’m now much more cognizant of what students are actually understanding. I’ve come to realize that it’s not so important what I say; it's more important what students hear.
+The {{% resource_link b0fe4856-cb03-8a61-e660-9aa70f6303e2 "practice-theory-practice approach" %}} is learning-centric, rather than teaching-centric, and, as a result, I’m now much more cognizant of what students are actually understanding. I’ve come to realize that it’s not so important what I say; it's more important what students hear.
 
 Using Concept Questions to Assess Students’ Understanding During Lectures
 -------------------------------------------------------------------------

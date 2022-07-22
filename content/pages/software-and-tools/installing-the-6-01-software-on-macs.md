@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section contains instructions for installing the 6.01 software on
+  MacOS X.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Software and Tools
+parent_type: CourseSection
 parent_uid: 7ff627d1-c807-cddd-75e0-3d0659f60269
 title: Installing the 6.01 Software on Macs
 uid: aa4c5c32-a0fc-63d4-cc8b-e09590cdc1cb
 ---
 
-« [Previous]({{< baseurl >}}/pages/software-and-tools)
+« {{% resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Previous" %}}
 
 Note: Python is pre-installed on MacOS X, but it is often an older version. For this class we will be using Python 2.6.x.
 
@@ -26,7 +31,7 @@ You should also install numpy, a package that will be used in later labs. This f
 C. Installing 6.01 Libraries and Soar
 -------------------------------------
 
-Download the [6.01 modules]({{< baseurl >}}/resources/lib601-3-500-tar) to a convenient directory (e.g., ~/Desktop). Open a Terminal window, navigate to the Desktop directory by typing a command of the form
+Download the {{% resource_link afbbebcc-ae39-bfa4-2f9d-071e9ed10453 "6.01 modules" %}} to a convenient directory (e.g., ~/Desktop). Open a Terminal window, navigate to the Desktop directory by typing a command of the form
 
 \> cd ~/Desktop
 
@@ -41,4 +46,4 @@ Then change directories and do the installation with
 
 You can now delete all of the files created by this operation (i.e., ~/Desktop/lib601-3-500.tar.gz and its associated directory tree). You should now be able to run soar by typing soar at a terminal command prompt.
 
-« [Previous]({{< baseurl >}}/pages/software-and-tools)
+« {{% resource_link 7ff627d1-c807-cddd-75e0-3d0659f60269 "Previous" %}}

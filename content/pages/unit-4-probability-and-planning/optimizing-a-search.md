@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This session contains readings, lecture and recitation video, and software
+  and design labs.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: 'Unit 4: Probability and Planning'
+parent_type: CourseSection
 parent_uid: f216c72d-f519-1296-c531-19833fb7c73a
 title: Optimizing a Search
 uid: da41172c-d83b-2571-9eae-caa5c1bcde32
 ---
 
-« [Previous]({{< baseurl >}}/pages/unit-4-probability-and-planning/search-algorithms) | [Next]({{< baseurl >}}/pages/final-exam) »
+« {{% resource_link 497582d8-68ca-82e7-7ef7-6b997e187b13 "Previous" %}} | {{% resource_link f0df2cae-e4ea-c3e0-a431-246d722e93a5 "Next" %}} »
 
 Session Overview
 ----------------
@@ -14,7 +19,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![Illustration of the Manhattan distance.]({{< resource_file fda65a5c-1968-cceb-1619-8e8186c90464 >}})
+{{< resource fda65a5c-1968-cceb-1619-8e8186c90464 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -25,7 +30,7 @@ In this session, we focus on improving search. We can systematically use informa
 
 The overview handout provides a more detailed introduction, including the big ideas of the session, key vocabulary, what you should understand (theory) and be able to do (practice) after completing this session, and additional resources.
 
-*   [Session 13 Handout: Optimizing a Search (PDF)]({{< baseurl >}}/resources/mit6_01scs11_ses13)
+*   {{% resource_link 4cccf934-9d3c-5417-be97-4dfd8bb9e5c3 "Session 13 Handout: Optimizing a Search (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -41,26 +46,26 @@ Session Content
 
 Read sections 8.5-8.6 of the course notes.
 
-*   [Chapter 8: Long-Term Decision-Making and Search (PDF)]({{< baseurl >}}/resources/mit6_01scs11_chap08-1)
+*   {{% resource_link 840b87b4-1bfd-9c95-446e-de3604a9312b "Chapter 8: Long-Term Decision-Making and Search (PDF)" %}}
 
 ### Lecture Video
 
 Watch the lecture video. The handout and slides present the same material, but the slides include answers to the in-class questions.
 
-*   [Lecture 13: Optimizing a Search]({{< baseurl >}}/resources/lecture-1-object-oriented-programming-10)
+*   {{% resource_link 02bf2c9e-d49c-5023-6a5a-325538b053d2 "Lecture 13: Optimizing a Search" %}}
 
 > ### About this Video
 > 
 > Uniform cost search takes into account the cost associated with an action, and can be implemented with a priority queue. Heuristics estimate the cost of the remaining path to the goal; the Manhattan distance is an example of an admissible heuristic.
 
-*   [Lecture handout (PDF)]({{< baseurl >}}/resources/mit6_01scs11_lec13_handout)
-*   [Lecture slides (PDF)]({{< baseurl >}}/resources/mit6_01scs11_lec13)
+*   {{% resource_link c4b5db63-ed78-92ed-a59a-7a047dc3806c "Lecture handout (PDF)" %}}
+*   {{% resource_link ff5adf49-8ea3-88ad-7842-beaeaf990676 "Lecture slides (PDF)" %}}
 
 ### Recitation Video
 
 These videos have been developed for OCW Scholar, and are designed to supplement the lecture videos.
 
-*   [Recitation 16: Search: Dynamic Programming, Costs and Heuristics]({{< baseurl >}}/resources/recitation-1-object-oriented-programming-9)
+*   {{% resource_link 069d127a-c9a8-a02d-405d-e0f68c518a84 "Recitation 16: Search: Dynamic Programming, Costs and Heuristics" %}}
 
 Session Activities
 ------------------
@@ -69,8 +74,8 @@ The problems in the tables below are taken from the 6.01 Online Tutor, an intera
 
 ### Software Lab
 
-*   [Software Lab 14: Plan from Outer Space (PDF)]({{< baseurl >}}/resources/mit6_01scs11_swlab14)
-*   [Code for Software Lab 14 (ZIP)]({{< baseurl >}}/resources/swlab14) (This ZIP file contains: 3 .py files.)
+*   {{% resource_link cae1b8b5-66e4-65b5-ab4a-613fe7065f8e "Software Lab 14: Plan from Outer Space (PDF)" %}}
+*   {{% resource_link 01f0f94f-591f-7020-ef71-8a2dafbc2aaa "Code for Software Lab 14 (ZIP)" %}} (This ZIP file contains: 3 .py files.)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -90,7 +95,7 @@ QUESTIONS
 14.1.1
 {{< tdclose >}}
 {{< tdopen >}}
-[Modeling the world (PDF)]({{< baseurl >}}/resources/mit6_01scs11_14_1_1)
+{{% resource_link 7c716782-3ea0-84c6-d1b0-e03b6edb1fd7 "Modeling the world (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +104,7 @@ QUESTIONS
 14.1.2
 {{< tdclose >}}
 {{< tdopen >}}
-[Robot on a grid map (PDF)]({{< baseurl >}}/resources/mit6_01scs11_14_1_2)
+{{% resource_link c7e38589-e9a0-1e99-af4f-3a376c509d49 "Robot on a grid map (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -108,8 +113,8 @@ QUESTIONS
 
 ### Design Lab
 
-*   [Design Lab 14: I'm the Map! (PDF)]({{< baseurl >}}/resources/mit6_01scs11_designlab14)
-*   [Code for Design Lab 14 (ZIP)]({{< baseurl >}}/resources/designlab14) (This ZIP file contains: 13 .py files.)
+*   {{% resource_link eac44100-b94f-c1b8-48b9-ea46cd0a9594 "Design Lab 14: I'm the Map! (PDF)" %}}
+*   {{% resource_link ac67003a-96de-8ae4-4ba6-da23e5c9c665 "Code for Design Lab 14 (ZIP)" %}} (This ZIP file contains: 13 .py files.)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -129,7 +134,7 @@ QUESTIONS
 14.2.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Aliasing instances (PDF)]({{< baseurl >}}/resources/mit6_01scs11_14_2_3)
+{{% resource_link 758e5d26-841b-0ef1-141a-c2722e4d9e73 "Aliasing instances (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,11 +143,11 @@ QUESTIONS
 14.2.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Robot race results \[optional\] (PDF)]({{< baseurl >}}/resources/mit6_01scs11_14_2_6)
+{{% resource_link "ac14e7e8-9ae0-1b23-6621-416d237463a7" "Robot race results \[optional\] (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/unit-4-probability-and-planning/search-algorithms) | [Next]({{< baseurl >}}/pages/final-exam) »
+« {{% resource_link 497582d8-68ca-82e7-7ef7-6b997e187b13 "Previous" %}} | {{% resource_link f0df2cae-e4ea-c3e0-a431-246d722e93a5 "Next" %}} »
