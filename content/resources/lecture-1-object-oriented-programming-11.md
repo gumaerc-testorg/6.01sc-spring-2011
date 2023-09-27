@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +21,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: ''
-title: ' Lecture 1: Object-Oriented Programming'
+title: 'Lecture 1: Object-Oriented Programming'
 uid: a854d66b-bdd8-7850-db2e-f8805a6b06d5
 video_files:
   archive_url: http://www.archive.org/download/MIT6.01SCS11/MIT6_01SC_S11_lec01_300k.mp4
