@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/62fe0404f092ac2dc1c0cc998b0631df_ig2_student-view.png
+file_size: 33715
 file_type: image/png
 image_metadata:
   caption: Individualized student view of the MIT 6.01 Help Queue. The student sees

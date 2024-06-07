@@ -2,6 +2,7 @@
 content_type: resource
 description: This is a supporting file for software and tools.
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/6881892d1595dc85a1614c2826cc6927_idle-n.bat
+file_size: 127
 file_type: application/x-msdos-program
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
