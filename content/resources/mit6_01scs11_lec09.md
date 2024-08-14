@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to circuit abstractions.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/bcea5d6be09c6b479eba9da13585a65b_MIT6_01SCS11_lec09.pdf
+file_size: 381586
 file_type: application/pdf
 image_metadata:
   caption: ''

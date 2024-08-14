@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on solution on problem on pole position.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/c4345603d32d69559a6e032be41680de_MIT6_01SCS11_mid02_S10_sol.pdf
+file_size: 543119
 file_type: application/pdf
 image_metadata:
   caption: ''

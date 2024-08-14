@@ -4,13 +4,14 @@ description: This resource contains information on problem of motor control, sta
   machine behavior, and circuits.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/56e33ac20f7bffe456a08f307b9eb6b9_MIT6_01SCS11_mid02_review.pdf
+file_size: 1129069
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Exams with Solutions
+- Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Midterm Exam 2
@@ -20,6 +21,7 @@ resourcetype: Document
 title: MIT6_01SCS11_mid02_review.pdf
 uid: 56e33ac2-0f7b-ffe4-56a0-8f307b9eb6b9
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

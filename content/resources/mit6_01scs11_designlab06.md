@@ -3,13 +3,14 @@ content_type: resource
 description: This resource contains information related to sizable following.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/c4ade296733d0be27074bc6eb42b78db_MIT6_01SCS11_designLab06.pdf
+file_size: 402117
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Programming Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Designing Control Systems
@@ -19,6 +20,7 @@ resourcetype: Document
 title: MIT6_01SCS11_designLab06.pdf
 uid: c4ade296-733d-0be2-7074-bc6eb42b78db
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

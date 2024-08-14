@@ -4,6 +4,7 @@ description: This resource contains information related to discrete probability 
   state estimation.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/79ddcd38b399ca5f8b18107f668bc0aa_MIT6_01SCS11_lec10_handout.pdf
+file_size: 234613
 file_type: application/pdf
 image_metadata:
   caption: ''

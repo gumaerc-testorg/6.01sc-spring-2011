@@ -3,6 +3,7 @@ content_type: resource
 description: New file Upload
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/88dc5538c694b5a6eb6330a78d43ef36_MIT6_01SCS11_quiz06_sol.pdf
+file_size: 100536
 file_type: application/pdf
 image_metadata:
   caption: ''
@@ -19,6 +20,7 @@ resourcetype: Document
 title: MIT6_01SCS11_quiz06_sol.pdf
 uid: 88dc5538-c694-b5a6-eb63-30a78d43ef36
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''
@@ -28,4 +30,3 @@ video_metadata:
   youtube_description: ''
   youtube_id: ''
 ---
-New file Upload

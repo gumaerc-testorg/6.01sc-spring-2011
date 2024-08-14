@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to object oriented programing.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/9083a2e7e6d95c24695b08509bd15bd4_MIT6_01SCS11_lec01_handout.pdf
+file_size: 211515
 file_type: application/pdf
 image_metadata:
   caption: ''
