@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains final exam for 2011.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/85d4b79c7353265160b42a040d6008a8_MIT6_01SCS11_final_S11.pdf
+file_size: 446802
 file_type: application/pdf
 image_metadata:
   caption: ''

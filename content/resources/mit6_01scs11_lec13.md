@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to optimizing a search.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ff5adf498ea388ad7842beaeaf990676_MIT6_01SCS11_lec13.pdf
+file_size: 474010
 file_type: application/pdf
 image_metadata:
   caption: ''

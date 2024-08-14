@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ac766bde7d8be3b6f86f90d67759f8fc_MIT6_01SCS11_quiz05_sol.pdf
+file_size: 256227
 file_type: application/pdf
 image_metadata:
   caption: ''

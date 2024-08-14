@@ -3,13 +3,14 @@ content_type: resource
 description: This resource contains information related to visually attractive.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/089b38464adb670b3956d3c60f75a063_MIT6_01SCS11_designLab09.pdf
+file_size: 379044
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Programming Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Circuit Abstractions
@@ -19,6 +20,7 @@ resourcetype: Document
 title: MIT6_01SCS11_designLab09.pdf
 uid: 089b3846-4adb-670b-3956-d3c60f75a063
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

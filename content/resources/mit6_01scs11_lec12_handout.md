@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to search algorithms.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/1bbeb0c97cae13ae58e1efba4fcdc1af_MIT6_01SCS11_lec12_handout.pdf
+file_size: 272583
 file_type: application/pdf
 image_metadata:
   caption: ''

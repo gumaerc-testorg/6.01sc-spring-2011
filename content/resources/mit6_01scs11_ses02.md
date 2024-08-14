@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to state machines.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/daf22579946a05c2e37522440f875286_MIT6_01SCS11_ses02.pdf
+file_size: 125209
 file_type: application/pdf
 image_metadata:
   caption: ''

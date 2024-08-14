@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/e0933717c9d344e0aaadf4832d87294e_J09o6QRVsfw.srt
+file_size: 16943
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

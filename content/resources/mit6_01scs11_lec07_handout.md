@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information related to circuits.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/3be964f553a1b13301f7899e519bb955_MIT6_01SCS11_lec07_handout.pdf
+file_size: 329434
 file_type: application/pdf
 image_metadata:
   caption: ''
