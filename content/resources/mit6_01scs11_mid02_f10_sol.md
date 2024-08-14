@@ -4,6 +4,7 @@ description: This resource contains information solution of problem on analyzing
   op amps, and designing circuits.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/cf18baa007f2c3cb2c67af27e15d074d_MIT6_01SCS11_mid02_F10_sol.pdf
+file_size: 437049
 file_type: application/pdf
 image_metadata:
   caption: ''

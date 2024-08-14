@@ -4,6 +4,7 @@ description: This resource contains information related to learning to program i
   python.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/697e081c3d8090b020b1a8c9b493f880_MIT6_01SCS11_chap02.pdf
+file_size: 334482
 file_type: application/pdf
 image_metadata:
   caption: ''

@@ -1,9 +1,16 @@
 ---
 content_type: resource
 description: 'This zip file contains: 1 .py file.'
+draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/2a0d66f4af09ceee702954c28979bec9_designLab01.zip
+file_size: 393
 file_type: application/zip
-learning_resource_types: []
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Programming Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Object-Oriented Programming
@@ -12,5 +19,15 @@ parent_uid: cb0b0a8c-7715-b7fb-9536-b7d77a728231
 resourcetype: Other
 title: designLab01.zip
 uid: 2a0d66f4-af09-ceee-7029-54c28979bec9
+video_files:
+  archive_url: ''
+  video_captions_file: ''
+  video_thumbnail_file: ''
+  video_transcript_file: ''
+video_metadata:
+  video_speakers: ''
+  video_tags: ''
+  youtube_description: ''
+  youtube_id: ''
 ---
 This zip file contains: 1 .py file.

@@ -3,13 +3,14 @@ content_type: resource
 description: This resource contains information related to state machines.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/584142f5d178cfab517e3a961bbb0ca4_MIT6_01SCS11_swLab02.pdf
+file_size: 207865
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Programming Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: State Machines
@@ -19,6 +20,7 @@ resourcetype: Document
 title: MIT6_01SCS11_swLab02.pdf
 uid: 584142f5-d178-cfab-517e-3a961bbb0ca4
 video_files:
+  archive_url: ''
   video_captions_file: ''
   video_thumbnail_file: ''
   video_transcript_file: ''

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information on session 8, Op-Amps.
 draft: false
 file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/05ff02a7caba3c1e07fb5eb56efb75ef_MIT6_01SCS11_ses08.pdf
+file_size: 218351
 file_type: application/pdf
 image_metadata:
   caption: ''
