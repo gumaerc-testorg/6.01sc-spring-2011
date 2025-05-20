@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/84961c13974e6eb4c006f8acd6f69cef_MIT6_01SC_rec5_300k.srt
+file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/84961c13974e6eb4c006f8acd6f69cef_MIT6_01SC_rec5_300k.srt
 file_size: 18551
 file_type: application/x-subrip
 learning_resource_types: []
