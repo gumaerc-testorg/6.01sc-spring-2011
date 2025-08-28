@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for controlling robots.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/87ec02d7cbdacf7814a29918c391366d_tutorial.py
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/87ec02d7cbdacf7814a29918c391366d_tutorial.py
 file_size: 110
 file_type: text/python-source
 image_metadata:

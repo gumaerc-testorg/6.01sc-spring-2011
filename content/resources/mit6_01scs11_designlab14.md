@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains design lab for i'm the map.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/eac44100b94fc1b848b9ea46cd0a9594_MIT6_01SCS11_designLab14.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/eac44100b94fc1b848b9ea46cd0a9594_MIT6_01SCS11_designLab14.pdf
 file_size: 409524
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to state estimation.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/d58f73bb5360ce67fc4cc2d61ad4b8e4_MIT6_01SCS11_ses11.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/d58f73bb5360ce67fc4cc2d61ad4b8e4_MIT6_01SCS11_ses11.pdf
 file_size: 209505
 file_type: application/pdf
 image_metadata:

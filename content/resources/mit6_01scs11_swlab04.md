@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains software lab.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/492da60c50c94395b3fed701e2c15baa_MIT6_01SCS11_swLab04.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/492da60c50c94395b3fed701e2c15baa_MIT6_01SCS11_swLab04.pdf
 file_size: 347025
 file_type: application/pdf
 image_metadata:

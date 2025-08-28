@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to probabilistic state estimation.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/e6a5d216b5a9d26dcf3a12222ec33d86_MIT6_01SCS11_chap07.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/e6a5d216b5a9d26dcf3a12222ec33d86_MIT6_01SCS11_chap07.pdf
 file_size: 968093
 file_type: application/pdf
 image_metadata:

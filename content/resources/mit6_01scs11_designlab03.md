@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to all carrot, no stick.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/3b0553671bc53046f4e2dcb18f0c6db8_MIT6_01SCS11_designLab03.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/3b0553671bc53046f4e2dcb18f0c6db8_MIT6_01SCS11_designLab03.pdf
 file_size: 550507
 file_type: application/pdf
 image_metadata:

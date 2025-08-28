@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/10171c469cd54b08b5ece722b134b26c_unit2.jpg
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/10171c469cd54b08b5ece722b134b26c_unit2.jpg
 file_size: 61246
 file_type: image/jpeg
 image_metadata:

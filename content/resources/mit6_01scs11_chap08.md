@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information related to long term decision making
   and search.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/a58ad6bb590f7d96e2cc9267e61e3ef6_MIT6_01SCS11_chap08.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/a58ad6bb590f7d96e2cc9267e61e3ef6_MIT6_01SCS11_chap08.pdf
 file_size: 586048
 file_type: application/pdf
 image_metadata:

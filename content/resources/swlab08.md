@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This zip file contains: 2 .py files.'
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/873416b2d6d5b05223f2b3f8385c67e1_swLab08.zip
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/873416b2d6d5b05223f2b3f8385c67e1_swLab08.zip
 file_size: 2019
 file_type: application/zip
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to cmax documentation.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/3e54268da5b5d7d46ef03047097d55e4_MIT6_01SCS11_cmax.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/3e54268da5b5d7d46ef03047097d55e4_MIT6_01SCS11_cmax.pdf
 file_size: 264232
 file_type: application/pdf
 image_metadata:

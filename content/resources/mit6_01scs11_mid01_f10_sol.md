@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on solution of problem on OOP.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/df24ab953dad12be20474e0181f8fc58_MIT6_01SCS11_mid01_F10_sol.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/df24ab953dad12be20474e0181f8fc58_MIT6_01SCS11_mid01_F10_sol.pdf
 file_size: 255786
 file_type: application/pdf
 image_metadata:
