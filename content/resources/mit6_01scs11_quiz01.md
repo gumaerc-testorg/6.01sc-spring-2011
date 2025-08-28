@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains quiz 1.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/196cf34fc70d51688511c232c830396b_MIT6_01SCS11_quiz01.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/196cf34fc70d51688511c232c830396b_MIT6_01SCS11_quiz01.pdf
 file_size: 286190
 file_type: application/pdf
 image_metadata:

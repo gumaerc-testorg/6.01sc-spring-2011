@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information on solution on problem of motor control,
   state machine behavior, and circuits.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/8efa7c2417b151025667949fe0d74961_MIT6_01SCS11_mid02_rev_sol.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/8efa7c2417b151025667949fe0d74961_MIT6_01SCS11_mid02_rev_sol.pdf
 file_size: 1110594
 file_type: application/pdf
 image_metadata:
