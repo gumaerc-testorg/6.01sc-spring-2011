@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to turning heads.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/6fa5e43c52089cf5e888d316afcaa853_MIT6_01SCS11_designLab08.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/6fa5e43c52089cf5e888d316afcaa853_MIT6_01SCS11_designLab08.pdf
 file_size: 530264
 file_type: application/pdf
 image_metadata:

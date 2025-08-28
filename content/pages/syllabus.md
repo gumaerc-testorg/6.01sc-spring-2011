@@ -8,8 +8,6 @@ ocw_type: CourseSection
 title: Syllabus
 uid: a867cb2b-8f18-9ea6-007b-e4cfcac89b0e
 ---
-« \[Previous\]({{< baseurl >}}/pages/index.htm) | {{% resource_link "2aef49a5-63b7-0f93-319d-156d62607fed" "Next" %}} »
-
 ## Course Goals
 
 We have many goals for this course. Our primary goal is for you to learn to appreciate and use the fundamental design principles of modularity and abstraction in a variety of contexts from electrical engineering and computer science.
@@ -28,7 +26,7 @@ This OCW Scholar course will be most useful to students with the following backg
     - Sequences and series, some trigonometry (for poles)
     - No extensive skill with calculus is required, but students should understand that velocity is the derivative of position, and be able to estimate the velocity of an object from a graph of its position.
 - Programming
-    - Some programming experience is good, but not necessarily required. The {{% resource_link "eb35763e-4457-1074-0617-fdcde7901af1" "Python Tutorial" %}} is designed to get students up to speed with Python, while a course like [*6.189 A Gentle Introduction to Programming Using Python*](/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011) may be useful for students will little or no programming experience.
+    - Some programming experience is good, but not necessarily required. The {{% resource_link "eb35763e-4457-1074-0617-fdcde7901af1" "Python Tutorial" %}} is designed to get students up to speed with Python, while a course like [*6.189 A Gentle Introduction to Programming Using Python*](https://ocw-studio.odl.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011) may be useful for students will little or no programming experience.
 - Physics
     - Some exposure to solving basic circuits: Ohm's law, passive components (such as resistors and capacitors), reducing a circuit to a system of linear equations.
 
@@ -100,4 +98,4 @@ The 6.01 course notes are presented by chapter in the pages that follow. Here is
 
 The development of these notes was led by Leslie Kaelbling. Jacob White, Hal Abelson, Tomas Lozano-Perez, Sarah Finney, Sari Canelake, Eric Grimson, Ike Chuang, and Berthold Horn provided useful comments and criticisms, and Dennis Freeman developed significant parts and most of the figures in the Signals and Systems chapter.
 
-« \[Previous\]({{< baseurl >}}/pages/index.htm) | {{% resource_link "2aef49a5-63b7-0f93-319d-156d62607fed" "Next" %}} »
+« {{% resource_link "2aef49a5-63b7-0f93-319d-156d62607fed" "Next" %}} »

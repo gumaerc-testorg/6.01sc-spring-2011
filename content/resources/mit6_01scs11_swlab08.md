@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to describing circuits.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/45f39f52d5aeef8a25b805b1726cfa60_MIT6_01SCS11_swLab08.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/45f39f52d5aeef8a25b805b1726cfa60_MIT6_01SCS11_swLab08.pdf
 file_size: 427361
 file_type: application/pdf
 image_metadata:

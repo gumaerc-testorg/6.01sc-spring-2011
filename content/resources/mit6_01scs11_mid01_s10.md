@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on problem on OOP, SE to DE, and diagnosis.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/8f817d1ce91007171d23c3328060b37c_MIT6_01SCS11_mid01_S10.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/8f817d1ce91007171d23c3328060b37c_MIT6_01SCS11_mid01_S10.pdf
 file_size: 330803
 file_type: application/pdf
 image_metadata:

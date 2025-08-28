@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions for the final exam 2011.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/d4e866df24474de69e2f6e0ed5f1dc4b_MIT6_01SCS11_final_S11_sol.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/d4e866df24474de69e2f6e0ed5f1dc4b_MIT6_01SCS11_final_S11_sol.pdf
 file_size: 471218
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to controlling robots.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ebb9c9e68d9c0998e856ef248b4be80a_MIT6_01SCS11_designLab02.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ebb9c9e68d9c0998e856ef248b4be80a_MIT6_01SCS11_designLab02.pdf
 file_size: 259361
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to polynomial class.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/af070209ca4c9749bd4731f4b35dd55e_MIT6_01SCS11_designLab01.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/af070209ca4c9749bd4731f4b35dd55e_MIT6_01SCS11_designLab01.pdf
 file_size: 349619
 file_type: application/pdf
 image_metadata:

@@ -2,7 +2,7 @@
 content_type: resource
 description: ''
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/b3d190f72d192d545598c9d0b6a99e27_swLab04.zip
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/b3d190f72d192d545598c9d0b6a99e27_swLab04.zip
 file_size: 3662
 file_type: application/zip
 image_metadata:

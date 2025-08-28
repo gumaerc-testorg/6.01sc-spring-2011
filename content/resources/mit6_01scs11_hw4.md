@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains homework.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/484a79a45eb9f7eead3052e87a495c17_MIT6_01SCS11_hw4.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/484a79a45eb9f7eead3052e87a495c17_MIT6_01SCS11_hw4.pdf
 file_size: 218892
 file_type: application/pdf
 image_metadata:

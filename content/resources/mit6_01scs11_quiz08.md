@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on problem on quiz 8.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ae49c3a273281c1509d585dcedbbd4ef_MIT6_01SCS11_quiz08.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/ae49c3a273281c1509d585dcedbbd4ef_MIT6_01SCS11_quiz08.pdf
 file_size: 243915
 file_type: application/pdf
 image_metadata:

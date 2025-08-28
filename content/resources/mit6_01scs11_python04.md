@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on problem on section 4, lists.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/30067abf84cee3c7c5f9d3c5763b525c_MIT6_01SCS11_python04.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/30067abf84cee3c7c5f9d3c5763b525c_MIT6_01SCS11_python04.pdf
 file_size: 87211
 file_type: application/pdf
 image_metadata:

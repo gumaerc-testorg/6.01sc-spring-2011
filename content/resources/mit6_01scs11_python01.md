@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on getting used to python.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/5f5a21bc2f614e14eb4b8584c8b13bd8_MIT6_01SCS11_python01.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/5f5a21bc2f614e14eb4b8584c8b13bd8_MIT6_01SCS11_python01.pdf
 file_size: 105619
 file_type: application/pdf
 image_metadata:

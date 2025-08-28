@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information on section 2, pyhton procedures.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/50c7addbd3fb66fd03b9c51dbfccd2eb_MIT6_01SCS11_python02.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/50c7addbd3fb66fd03b9c51dbfccd2eb_MIT6_01SCS11_python02.pdf
 file_size: 77585
 file_type: application/pdf
 image_metadata:

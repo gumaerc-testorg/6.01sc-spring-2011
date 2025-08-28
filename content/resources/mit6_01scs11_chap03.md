@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to programs and data.
 draft: false
-file: /courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/facb2dfdb11f87b068e8fcbcbd9e9539_MIT6_01SCS11_chap03.pdf
+file: /ol-ocw-studio-app/courses/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/facb2dfdb11f87b068e8fcbcbd9e9539_MIT6_01SCS11_chap03.pdf
 file_size: 1706643
 file_type: application/pdf
 image_metadata:
