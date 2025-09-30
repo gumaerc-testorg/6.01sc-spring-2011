@@ -14,10 +14,10 @@ uid: 57d4e60d-992f-a07b-e58a-3a6eb537581e
 
 Before starting these problems, please read:
 
-*   [Think Python, Chapter 8: Strings](http://www.greenteapress.com/thinkpython/html/book009.html)
-*   [Think Python, Chapter 10: Lists](http://www.greenteapress.com/thinkpython/html/book011.html)
-*   [Think Python, Chapter 11: Dictionaries](http://www.greenteapress.com/thinkpython/html/book012.html)
-*   [Think Python, Chapter 12: Tuples](http://www.greenteapress.com/thinkpython/html/book013.html)
+*   {{% resource_link "66321348-4134-499a-ae5f-77e241cd30ed" "Think Python, Chapter 8: Strings" %}}
+*   {{% resource_link "86835c9c-7a6d-4004-ab14-b1cbc5a92d0d" "Think Python, Chapter 10: Lists" %}}
+*   {{% resource_link "36de219c-468d-4f01-80ae-88361886deb9" "Think Python, Chapter 11: Dictionaries" %}}
+*   {{% resource_link "719cbd75-67d7-4c15-96da-73a410a18d03" "Think Python, Chapter 12: Tuples" %}}
 *   {{% resource_link 30067abf-84ce-e3c7-c5f9-d3c5763b525c "6.01 Python Notes, Section 4: Lists (PDF)" %}}
 *   {{% resource_link f5aa9a8b-b3ad-ded0-15ff-b1038e68eb98 "6.01 Python Notes, Section 5: Functional Style (PDF)" %}}
 

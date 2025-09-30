@@ -18,7 +18,7 @@ Finally, of course, we have the more typical goals of teaching exciting and impo
 
 ## Prerequisites
 
-At MIT, 6.01 has no formal prerequisites. Students are expected to take [*8.02 Physics II: Electricity and Magnetism*](https://ocw.mit.edu/courses/8-02-physics-ii-electricity-and-magnetism-spring-2019/) as a co-requisite.
+At MIT, 6.01 has no formal prerequisites. Students are expected to take {{% resource_link "c7fd33d6-56c8-4a6b-9702-2697fa42ff80" "*8.02 Physics II: Electricity and Magnetism*" %}} as a co-requisite.
 
 This OCW Scholar course will be most useful to students with the following background and skills:
 
@@ -26,7 +26,7 @@ This OCW Scholar course will be most useful to students with the following backg
     - Sequences and series, some trigonometry (for poles)
     - No extensive skill with calculus is required, but students should understand that velocity is the derivative of position, and be able to estimate the velocity of an object from a graph of its position.
 - Programming
-    - Some programming experience is good, but not necessarily required. The {{% resource_link "eb35763e-4457-1074-0617-fdcde7901af1" "Python Tutorial" %}} is designed to get students up to speed with Python, while a course like [*6.189 A Gentle Introduction to Programming Using Python*](https://ocw-studio.odl.mit.edu/courses/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011) may be useful for students will little or no programming experience.
+    - Some programming experience is good, but not necessarily required. The {{% resource_link "eb35763e-4457-1074-0617-fdcde7901af1" "Python Tutorial" %}} is designed to get students up to speed with Python, while a course like {{% resource_link "f6406718-620c-4168-9fa5-2f6ebff944a2" "*6.189 A Gentle Introduction to Programming Using Python*" %}} may be useful for students will little or no programming experience.
 - Physics
     - Some exposure to solving basic circuits: Ohm's law, passive components (such as resistors and capacitors), reducing a circuit to a system of linear equations.
 

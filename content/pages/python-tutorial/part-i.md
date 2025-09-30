@@ -14,7 +14,7 @@ uid: ffa6b18b-9208-3825-b5c2-29de088ec938
 
 Before starting these problems, please read:
 
-*   [Think Python, Chapter 2: Variables, Expressions, and Statements](http://www.greenteapress.com/thinkpython/html/book003.html)
+*   {{% resource_link "54e2fba1-257c-4dc4-9e98-eb800d7aa4e7" "Think Python, Chapter 2: Variables, Expressions, and Statements" %}}
 *   {{% resource_link 5f5a21bc-2f61-4e14-eb4b-8584c8b13bd8 "6.01 Python Notes, Section 1: Getting Used to Python (PDF)" %}}
 
 The problems in the table below are taken from the 6.01 Python Tutor, an interactive environment that is not available on OCW. Do not try to answer these questions in the PDF files; answers will not be checked, and cannot be submitted.

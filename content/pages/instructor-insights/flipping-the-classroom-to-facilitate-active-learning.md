@@ -35,6 +35,6 @@ In labs, students are doing constructive and interactive activities. They’re b
 
 ### References
 
-Chi, Michelene and Ruth Wylie. "[The ICAP framework: Linking Cognitive Engagement to Active Learning Outcomes](http://www.tandfonline.com/doi/abs/10.1080/00461520.2014.965823#.ViAIwCtq1SA)." _Educational Psychologist, 49(4) (2014): 219-243._
+Chi, Michelene and Ruth Wylie. "{{% resource_link "9dd3823d-b7f2-4075-9245-4c00d0c89b5a" "The ICAP framework: Linking Cognitive Engagement to Active Learning Outcomes" %}}." _Educational Psychologist, 49(4) (2014): 219-243._
 
 Mazur, Eric. _Peer instruction: A User’s Manual_. Prentice Hall, 1997. ISBN: 9780135654415.
