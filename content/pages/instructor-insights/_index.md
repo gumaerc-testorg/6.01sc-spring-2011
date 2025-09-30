@@ -46,7 +46,7 @@ _In the following pages, Professor Dennis Freeman and Visiting Professor Sanjoy 
 
 _Learn more! In a video at the following Residential Digital Innovations page, Professor Freeman discusses task-centered learning as a pedagogical approach in_ 6.01 Introduction to Electrical Engineering and Computer Science I.
 
-- [Task-Centered Learning: Intro to EECS Robotics](https://openlearning.mit.edu/campus/digital-innovations/task-centered-learning-intro-eecs-robotics)
+- {{% resource_link "a094b688-14ad-4625-b7b5-98d8e34ee8a8" "Task-Centered Learning: Intro to EECS Robotics" %}}
 
 ## Curriculum Information
 
@@ -58,7 +58,7 @@ _Learn more! In a video at the following Residential Digital Innovations page, P
 
 - GIR ![](/images/educator/icon-question-gir.png)
 - 6.01 satisfies 1/2 of the Institute Lab Requirement.
-- 6.01 can be applied toward a [Bachelor of Science in Electrical Science and Engineering](http://catalog.mit.edu/degree-charts/electrical-science-engineering-course-6-1/); [Electrical Engineering and Computer Science](http://catalog.mit.edu/degree-charts/electrical-engineering-computer-science-course-6-2/); or [Computer Science and Engineering](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/).
+- 6.01 can be applied toward a {{% resource_link "b580e933-f476-45dc-9357-7f3d03bf6511" "Bachelor of Science in Electrical Science and Engineering" %}}; {{% resource_link "be17c360-90f3-49d4-9256-67c5f933642a" "Electrical Engineering and Computer Science" %}}; or {{% resource_link "a67e21f1-b175-4a7d-847a-21a2568184fd" "Computer Science and Engineering" %}}.
 
 ### Offered
 

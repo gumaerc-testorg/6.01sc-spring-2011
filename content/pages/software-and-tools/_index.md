@@ -12,11 +12,11 @@ uid: 7ff627d1-c807-cddd-75e0-3d0659f60269
 
 ## Software
 
-In 6.01, we will use the [Python programming language](http://python.org/) and a collection of 6.01 Python modules that were written specifically for 6.01. These programs are available for installation on your personal computers (see links below).
+In 6.01, we will use the {{% resource_link "16a4a819-3f1f-4eab-8b98-c49525c54a94" "Python programming language" %}} and a collection of 6.01 Python modules that were written specifically for 6.01. These programs are available for installation on your personal computers (see links below).
 
-You'll also need an editor and/or development environment for writing and debugging your programs. In 6.01, we will be using IDLE, a programming environment specially designed for Python programming and included with the Python distribution. It's also possible to use [Emacs](http://www.gnu.org/software/emacs/) if you prefer.
+You'll also need an editor and/or development environment for writing and debugging your programs. In 6.01, we will be using IDLE, a programming environment specially designed for Python programming and included with the Python distribution. It's also possible to use {{% resource_link "055d9502-c8ed-4ff6-9368-80dc76e6443e" "Emacs" %}} if you prefer.
 
-You can install the 6.01 software on your personal computer if your operating system is GNU/Linux, Windows (7/XP), or MacOS X. In all cases, you will need Python version 2.6.x (other versions will NOT function properly). The 6.01 software has been tested with [version 2.6.6](http://www.python.org/download/releases/2.6.6/), but [version 2.6.7](http://www.python.org/download/releases/2.6.7/) should also be fine.
+You can install the 6.01 software on your personal computer if your operating system is GNU/Linux, Windows (7/XP), or MacOS X. In all cases, you will need Python version 2.6.x (other versions will NOT function properly). The 6.01 software has been tested with {{% resource_link "5b8a4c60-cb6e-49b5-8252-6e9097ed6ca4" "version 2.6.6" %}}, but {{% resource_link "b96052b8-86c5-4d47-a659-7d2a151404e6" "version 2.6.7" %}} should also be fine.
 
 More detailed installation notes are available for the following operating systems.
 
@@ -33,7 +33,7 @@ The 6.01 Software Documentation describes all the modules included in the lib601
 
 ## Lab References
 
-6.01 uses the [ActivMedia Pioneer 3-DX](https://robots.ros.org/pioneer-3-dx/) robot in design labs. Some components of design labs cannot be completed without these robots, such as explorations and mappings using sonar arrays, design challenges related to coordination between the robot head and body controls, and articulation of the disparities between simulation and actual performance.
+6.01 uses the {{% resource_link "7a37081b-ca5b-469c-a510-4bd349b78050" "ActivMedia Pioneer 3-DX" %}} robot in design labs. Some components of design labs cannot be completed without these robots, such as explorations and mappings using sonar arrays, design challenges related to coordination between the robot head and body controls, and articulation of the disparities between simulation and actual performance.
 
 However, the majority of the Design Lab material can be covered without access to a physical robot. These references describe and document the hardware and software used in the 6.01 lab.
 
@@ -42,15 +42,15 @@ However, the majority of the Design Lab material can be covered without access t
 
 ## Python/IDLE Resources
 
-[*Python Tutorial*, by Guido Van Rossum](https://docs.python.org/3/tutorial/index.html)
+{{% resource_link "f16908e2-f046-451e-8843-978b320f629a" "*Python Tutorial*, by Guido Van Rossum" %}}
 
 This is the standard tutorial reference by the inventor of Python. Everyone should have a bookmark for it in their browser for reference. For learning programming, however, start with *Think Python*, below.
 
-*Think Python: An Introduction to Software Design*, by Allen Downey. ([PDF - 1.0MB](http://www.greenteapress.com/thinkpython/thinkpython.pdf))
+*Think Python: An Introduction to Software Design*, by Allen Downey. ({{% resource_link "d04f6fbd-b745-456e-bade-d694ffecdfdb" "PDF - 1.0MB" %}})
 
 This is a good introductory text that uses Python to present basic ideas of computer science and programming. It's especially recommended if you don't have a lot of programming experience and a good thing to skim even if you do.
 
-[Official IDLE Documentation](https://docs.python.org/3/library/idle.html)
+{{% resource_link "a0c2160e-66c4-4e9f-81d1-6af487d3dfb8" "Official IDLE Documentation" %}}
 
 The official Python IDLE documentation, including keyboard shortcuts, debugging, etc.
 

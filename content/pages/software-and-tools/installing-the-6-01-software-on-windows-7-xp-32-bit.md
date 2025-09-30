@@ -18,8 +18,8 @@ A. Download the Software
 
 Download the following files to your desktop:
 
-*   The appropriate Windows installer for [Python 2.6.x](http://www.python.org/ftp/python/2.6.6/python-2.6.6.msi)
-*   [numpy for Python 2.6.x](http://sourceforge.net/projects/numpy/files/NumPy/1.5.1/numpy-1.5.1-win32-superpack-python2.6.exe/download)
+*   The appropriate Windows installer for {{% resource_link "4cb40892-ebdb-4ed2-861f-51d00d55b8f0" "Python 2.6.x" %}}
+*   {{% resource_link "ddc3aa84-2fba-4dad-bc09-48d1f7d2d664" "numpy for Python 2.6.x" %}}
 *   {{% resource_link cfee1efb-d62c-543b-0863-3cb96f74c573 "Soar, CMax, and lib601 installer" %}}. (**Win7 Must Run as Administrator**). Right-click on installer and choose "Run as Administrator".
 
 B. Install the Python Language

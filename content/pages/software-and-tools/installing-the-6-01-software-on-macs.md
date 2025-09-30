@@ -21,12 +21,12 @@ Note: Python is pre-installed on MacOS X, but it is often an older version. For 
 A. Install Python
 -----------------
 
-You can get a Python 2.6.x DMG installer (Mac Installer disk image) here: [Python 2.6.6](http://www.python.org/ftp/python/2.6.6/python-2.6.6-macosx10.3.dmg)
+You can get a Python 2.6.x DMG installer (Mac Installer disk image) here: {{% resource_link "38e705a3-afb4-414c-9fd4-afc683b85fca" "Python 2.6.6" %}}
 
 B. Installing Numpy
 -------------------
 
-You should also install numpy, a package that will be used in later labs. This file is available here: [numpy 1.6](http://sourceforge.net/projects/numpy/files/NumPy/1.6.1/numpy-1.6.1-py2.6-python.org-macosx10.3.dmg/download)
+You should also install numpy, a package that will be used in later labs. This file is available here: {{% resource_link "550cd03d-0f9a-42be-b8fe-396c12388b53" "numpy 1.6" %}}
 
 C. Installing 6.01 Libraries and Soar
 -------------------------------------

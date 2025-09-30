@@ -14,8 +14,8 @@ uid: 14427f34-8f48-0109-8fbb-e6ee945756d4
 
 Before starting these problems, please read:
 
-*   [Think Python, Chapter 5: Conditionals and Recursion](http://www.greenteapress.com/thinkpython/html/book006.html), through section 5.7
-*   [Think Python, Chapter 7: Iteration](http://www.greenteapress.com/thinkpython/html/book008.html)
+*   {{% resource_link "61a32c7b-5bb5-4b3e-8eb2-26f313eaa179" "Think Python, Chapter 5: Conditionals and Recursion" %}}, through section 5.7
+*   {{% resource_link "b46231ed-5157-4e6d-baa8-df163f0032b2" "Think Python, Chapter 7: Iteration" %}}
 
 The problems in the table below are taken from the 6.01 Python Tutor, an interactive environment that is not available on OCW. Do not try to answer these questions in the PDF files; answers will not be checked, and cannot be submitted.
 
