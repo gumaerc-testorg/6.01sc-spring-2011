@@ -18,8 +18,8 @@ A. Download the Software
 
 Download the following files to your desktop:
 
-*   The appropriate Windows installer for [Python 2.6.x (64-bit)](http://www.python.org/ftp/python/2.6.6/python-2.6.6.amd64.msi)
-*   [Unofficial numpy for Python 2.6.x (64-bit)](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy) (select **numpy-unoptimized-1.6.1.win-amd64-py2.6.exe**; make sure you get the py2.6 part correct.) 64-bit numpy is not officially supported, however, _Unofficial_ binaries exist at the above website courtesy of Christoph Gohlke (UC Irvine).
+*   The appropriate Windows installer for {{% resource_link "dc936682-128d-451e-8efc-4014e1b39115" "Python 2.6.x (64-bit)" %}}
+*   {{% resource_link "99328777-28dc-435f-8f53-ac900a7a0409" "Unofficial numpy for Python 2.6.x (64-bit)" %}} (select **numpy-unoptimized-1.6.1.win-amd64-py2.6.exe**; make sure you get the py2.6 part correct.) 64-bit numpy is not officially supported, however, _Unofficial_ binaries exist at the above website courtesy of Christoph Gohlke (UC Irvine).
 *   {{% resource_link e18f915e-8a6a-e976-1299-888606f28ced "Soar, CMax, and lib601 installer (64-bit)" %}}. (**Win7 Must Run as Administrator**). Right-click on installer and choose "Run as Administrator".
 
 B. Install the Python Language

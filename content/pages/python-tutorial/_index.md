@@ -24,9 +24,9 @@ Some of the later problem sets are much longer than the earlier ones, because we
 Python Documentation
 --------------------
 
-Each section of this tutorial includes notes on Python written for 6.01, as well as pointers to chapters of _[Think Python: How to Think Like a Computer Scientist](http://www.greenteapress.com/thinkpython/html)._
+Each section of this tutorial includes notes on Python written for 6.01, as well as pointers to chapters of _{{% resource_link "b6ddbd3a-1a03-4b19-8b2b-9b1fa3ef9d40" "Think Python: How to Think Like a Computer Scientist" %}}._
 
-Another useful reference for Python details is the official [Python Tutorial](http://docs.python.org/tut/).
+Another useful reference for Python details is the official {{% resource_link "29cd7dbd-09ee-4368-9b4e-ce227e0aa7fd" "Python Tutorial" %}}.
 
 Software
 --------

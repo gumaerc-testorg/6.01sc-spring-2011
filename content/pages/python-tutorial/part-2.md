@@ -14,8 +14,8 @@ uid: f7d78d74-5ad0-846f-c9e2-c2ee7ece5ed1
 
 Before starting these problems, please read:
 
-*   [Think Python, Chapter 3: Functions](http://www.greenteapress.com/thinkpython/html/book004.html)
-*   [Think Python, Chapter 6: Fruitful Functions](http://www.greenteapress.com/thinkpython/html/book007.html), sections 1-4
+*   {{% resource_link "455c52c8-7ed8-4d68-a793-56111d7d3b53" "Think Python, Chapter 3: Functions" %}}
+*   {{% resource_link "7c4d3376-0451-4c8d-b9b1-c345f7e7c75e" "Think Python, Chapter 6: Fruitful Functions" %}}, sections 1-4
 *   {{% resource_link 50c7addb-d3fb-66fd-03b9-c51dbfccd2eb "6.01 Python Notes, Section 2: Procedures (PDF)" %}}
 
 The problems in the table below are taken from the 6.01 Python Tutor, an interactive environment that is not available on OCW. Do not try to answer these questions in the PDF files; answers will not be checked, and cannot be submitted.

@@ -15,16 +15,16 @@ uid: f1bdaacf-7071-5579-04da-a1ee567058ad
 
 This course makes use of Athena, MIT's UNIX-based computing environment. OCW does not provide access to this environment.
 
-The laptops in the lab use Athena software that is built on [Ubuntu](http://www.ubuntu.com/) version 10.4. We expect the 6.01 software to work on other distributions, but other distributions have not been tested.
+The laptops in the lab use Athena software that is built on {{% resource_link "7f7cd26e-8b2e-4b12-b8a0-58dad47d1fb8" "Ubuntu" %}} version 10.4. We expect the 6.01 software to work on other distributions, but other distributions have not been tested.
 
 A. Get Python, TK, and Numpy
 ----------------------------
 
-Make sure that your machine is running Python 2.6.6. You can use either your distribution's package manager (apt, synaptic, yum, etc.) to download and install the python package (make sure it's version 2.6.6), or you can compile Python from [source](http://www.python.org/download/releases/2.6.6/).
+Make sure that your machine is running Python 2.6.6. You can use either your distribution's package manager (apt, synaptic, yum, etc.) to download and install the python package (make sure it's version 2.6.6), or you can compile Python from {{% resource_link "5b8a4c60-cb6e-49b5-8252-6e9097ed6ca4" "source" %}}.
 
 You should also install tkinter, a Python package that is necessary for running soar. Installation will be dependent on your distribution. For recent Debian-based distros, there is a package (python-tk) that you can install with apt. On other distributions, you should be able to find an appropriate package to install as well.
 
-You will also need to install numpy, a Python package, for some of the assignments. Again, installation will be dependent on your distribution. For recent Debian-based distros, there is a package (python-numpy) that you can install with apt. For other distributions, you can either compile from [source](http://sourceforge.net/projects/numpy/files/) or find the appropriate package for your distribution.
+You will also need to install numpy, a Python package, for some of the assignments. Again, installation will be dependent on your distribution. For recent Debian-based distros, there is a package (python-numpy) that you can install with apt. For other distributions, you can either compile from {{% resource_link "069f8e5c-3369-4fcb-853b-6f5e8af2c961" "source" %}} or find the appropriate package for your distribution.
 
 B. Get Idle or Emacs
 --------------------
